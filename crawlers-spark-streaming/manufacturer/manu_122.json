@@ -1,0 +1,871 @@
+{
+ "Count": 83,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "AUSTRALIA",
+   "Mfr_CommonName": "Mitsubishi Australia ",
+   "Mfr_ID": 13526,
+   "Mfr_Name": "MITSUBISHI MOTORS AUSTRALIA LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13527,
+   "Mfr_Name": "AMERICAN CUSTOM COACH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13528,
+   "Mfr_Name": "Best Bilt, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13530,
+   "Mfr_Name": "ZHEJIANG LEIKE MACHINE INDUSTRY CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13531,
+   "Mfr_Name": "BROOKS BROTHERS TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13532,
+   "Mfr_Name": "C.F.'s Welding Service & Custom Built Trailers Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13533,
+   "Mfr_Name": "CENTRAL PURCHASING INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13534,
+   "Mfr_Name": "CUDDLE SHUTTLE LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13535,
+   "Mfr_Name": "CAMI AUTOMOTIVE INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13536,
+   "Mfr_Name": "CHANGSHU LIGHT MOTORCYCLE FACTORY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13537,
+   "Mfr_Name": "CHLORINATORS & CONTROLS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13538,
+   "Mfr_Name": "Data Manufacturing Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13540,
+   "Mfr_Name": "Excelsior-Henderson Motorcycles",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13541,
+   "Mfr_Name": "Extreame Fabrication",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13542,
+   "Mfr_Name": "Five Star Custom Trailer",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13543,
+   "Mfr_Name": "Featherlite Vogue",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13544,
+   "Mfr_Name": "BRUNO INDEPENDENT LIVING AIDS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": "Volvo Group (Canada)",
+   "Mfr_ID": 13545,
+   "Mfr_Name": "Volvo Group Canada, Inc",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13546,
+   "Mfr_Name": "Herbs Welding Shop",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13547,
+   "Mfr_Name": "FLINT HILLS INDUSTRIES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13548,
+   "Mfr_Name": "Blue Coyote Trailers",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Horton Hauler",
+   "Mfr_ID": 13549,
+   "Mfr_Name": "HORTON VANS, INCORPORATED",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13551,
+   "Mfr_Name": "Hawaiian Heat Motorcycle INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13552,
+   "Mfr_Name": "Magic Tilt Trailers Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13553,
+   "Mfr_Name": "Magnum Products, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13554,
+   "Mfr_Name": "KANN MANUFACTURING CORP",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13555,
+   "Mfr_Name": "Martin RV Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13556,
+   "Mfr_Name": "Lawton Trailers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13557,
+   "Mfr_Name": "S&T MOTORS CO., LTD. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13559,
+   "Mfr_Name": "PIKE EQUIPMENT & SUPPLY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13560,
+   "Mfr_Name": "PINNACLE INDUSTRIAL SERVICES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13561,
+   "Mfr_Name": "POND KING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13562,
+   "Mfr_Name": "Legend Valley Products - O'Brien Mfg.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Neckover",
+   "Mfr_ID": 13563,
+   "Mfr_Name": "C DIAMOND F, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13564,
+   "Mfr_Name": "MOUNTAIN STATES MOTOR",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13565,
+   "Mfr_Name": "PRO-TRAK TRAILERS, INC. ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13566,
+   "Mfr_Name": "WORXS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13567,
+   "Mfr_Name": "armadillo camper kits, inc.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13568,
+   "Mfr_Name": "Slick Spot Farm, Truck & Auto",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13570,
+   "Mfr_Name": "PALMER'S WELDING & FABRICATION LLC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13571,
+   "Mfr_Name": "VELOCETTE TRAILERS LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13572,
+   "Mfr_Name": "TIANJIN HENGTAI GALLOP TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13574,
+   "Mfr_Name": "GULF SOUTH TRAILER WORKS, LLC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13575,
+   "Mfr_Name": "OWINGS EQUIPMENT CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13576,
+   "Mfr_Name": "Pacesetter Boat Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13577,
+   "Mfr_Name": "STEELe ENTERPRISES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13578,
+   "Mfr_Name": "OFF THE HOOK TRAILERS CORP",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13579,
+   "Mfr_Name": "DIVERSIFIED  PRODUCTS LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13580,
+   "Mfr_Name": "PREMIER TRUCK RENTAL",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13581,
+   "Mfr_Name": "AUTOTRONICS ,LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13582,
+   "Mfr_Name": "THERMO KING OF CHARLESTON ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13583,
+   "Mfr_Name": "PAGSTA. LLC LIMITED LIABILITY COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13584,
+   "Mfr_Name": "ZHEJIANG FUERKANG MOTORCYCLE FITTINGS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13585,
+   "Mfr_Name": "HOLT & SONS INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13586,
+   "Mfr_Name": "MUDDS CUSTOMS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13587,
+   "Mfr_Name": "LINDSAY TRANSPORTATION SOLUTIONS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Sanborn Building & Design, Inc.",
+   "Mfr_ID": 13588,
+   "Mfr_Name": "SANBORN BUILDING & DESIGN, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13589,
+   "Mfr_Name": "SHEYENNE TOOLING & MFG.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13590,
+   "Mfr_Name": "TRUCK-TECH ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13591,
+   "Mfr_Name": "D & D DIRECT",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13592,
+   "Mfr_Name": "TINY IDAHOMES LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13593,
+   "Mfr_Name": "FORTRESS RESOURCES, LLC DBA ROYAL TRUCK BODY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13594,
+   "Mfr_Name": "NORSTAR TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13596,
+   "Mfr_Name": "Sun Coast Trailer Manufacturers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13597,
+   "Mfr_Name": "Second Trunk Trailers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13598,
+   "Mfr_Name": "Sauber Mfg. Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13599,
+   "Mfr_Name": "Safari Motor Coaches",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13600,
+   "Mfr_Name": "SUBZERO INSULATION AND REFRIGERATION TECHNOLOGIES LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13601,
+   "Mfr_Name": "TEXOMA TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13602,
+   "Mfr_Name": "DELIVERY CONCEPTS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13603,
+   "Mfr_Name": "NORDCO, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13604,
+   "Mfr_Name": "WARRIOR TRIKES S.E.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13605,
+   "Mfr_Name": "JOHNSON INDUSTRIES, INC. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13606,
+   "Mfr_Name": "OK SCHOONERS LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13607,
+   "Mfr_Name": "MALIBU BOATS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13608,
+   "Mfr_Name": "SCOTT'S WELDING & FABRICATION ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13609,
+   "Mfr_Name": "QINGDAO MOONSTAR VEHICLE CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13610,
+   "Mfr_Name": "Run Roader",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13611,
+   "Mfr_Name": "GOLDEN GAIT TRAILERS, LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13612,
+   "Mfr_Name": "SOUTHERN OHIO CHASSIS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13613,
+   "Mfr_Name": "PREMIER MOTORCOACH COMPANY LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13614,
+   "Mfr_Name": "SCOTT INDUSTRY'S PRO-FORMANCE MANUFACTURING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 13615,
+   "Mfr_Name": "ALEXANDER'S MACHINE AND MAINTENANCE SERVICE COMPANY INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  }
+ ]
+}

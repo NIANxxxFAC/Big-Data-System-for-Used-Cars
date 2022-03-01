@@ -1,0 +1,829 @@
+{
+ "Count": 97,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2211,
+   "Mfr_Name": "CHALET RV INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2212,
+   "Mfr_Name": "CHALLENGE-COOK BROS., INCORPORATED",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2213,
+   "Mfr_Name": "CHAMELEON TRANSPORTATION SYSTEMS IN",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2214,
+   "Mfr_Name": "CHAMPION BUS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2216,
+   "Mfr_Name": "CENTURION VEHICLES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2217,
+   "Mfr_Name": "CENTURION-LEHMAN, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2218,
+   "Mfr_Name": "CENTURY MOTOR COACH, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2220,
+   "Mfr_Name": "CENTURY TRAILER COMPANY, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2221,
+   "Mfr_Name": "CENTURY WRECKER CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2223,
+   "Mfr_Name": "DUN-RITE MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2224,
+   "Mfr_Name": "DUNBIER MARINE PRODUCTS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2225,
+   "Mfr_Name": "DUNCAN DBA SUPPLY COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2226,
+   "Mfr_Name": "DUNCAN MFG. & EQUIPMENT CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2227,
+   "Mfr_Name": "DUNCAN TRUCK SALES CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2228,
+   "Mfr_Name": "DUNHAM MANUFACTURING CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2229,
+   "Mfr_Name": "DUPLATE CANADA LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2230,
+   "Mfr_Name": "DURACO INDUSTRIES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2231,
+   "Mfr_Name": "DURALITE TRUCK BODY & CONTAINER COR",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2232,
+   "Mfr_Name": "DURNELL INDUSTRIES, CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2233,
+   "Mfr_Name": "DUTCH GOSNELL'S WELDING AND SUPPLY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2234,
+   "Mfr_Name": "DUTCH PARK HOMES, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2235,
+   "Mfr_Name": "DUTCH PARK HOMES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2236,
+   "Mfr_Name": "DUTCH PARK, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2237,
+   "Mfr_Name": "DUTTON-LAINSON COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2238,
+   "Mfr_Name": "DUVALL EQUIPMENT LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2239,
+   "Mfr_Name": "DWYER EQUIPMENT COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2240,
+   "Mfr_Name": "DYCK WELDING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2241,
+   "Mfr_Name": "DYNA VANS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2242,
+   "Mfr_Name": "DYNA-PLASTICS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2243,
+   "Mfr_Name": "DYNA-TRUCK DIVISION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2244,
+   "Mfr_Name": "DYNAMAX CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2245,
+   "Mfr_Name": "DYNAMIC AIR SYSTEMS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2246,
+   "Mfr_Name": "DYNAMIC FIBER LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2247,
+   "Mfr_Name": "DYNAMIC MANUFACTURING CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2248,
+   "Mfr_Name": "DYNCORP TRI-CITIES SERVICES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2249,
+   "Mfr_Name": "E & L TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2250,
+   "Mfr_Name": "E-Z TOW TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2251,
+   "Mfr_Name": "MATKOZ MFG.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2252,
+   "Mfr_Name": "MATRIX MOTOR COMPANY INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2254,
+   "Mfr_Name": "MATTY'S MARINE & MOTORSPORTS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2255,
+   "Mfr_Name": "MATUYMA SEISAKUSHO CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2256,
+   "Mfr_Name": "TUFF/LUGG INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2257,
+   "Mfr_Name": "TUG HILL TRAILER MFG",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2258,
+   "Mfr_Name": "TUK-A-WAY TRAILER COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2259,
+   "Mfr_Name": "TULSA BODY WORKS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2260,
+   "Mfr_Name": "TULSA OPERATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2261,
+   "Mfr_Name": "TULSA RIG IRON INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2262,
+   "Mfr_Name": "TURNER TRUCK EQUIPMENT INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2264,
+   "Mfr_Name": "MCGLOTHLIN & SONS TRAILERS SERVICE INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2265,
+   "Mfr_Name": "MCHENRY METAL PRODUCTS CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2266,
+   "Mfr_Name": "MCHENRY TRUCK EQUIPMENT INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2267,
+   "Mfr_Name": "MCILHANY EQUIPMENT CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2268,
+   "Mfr_Name": "MCKEE FARM TECHNOLOGIES INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2270,
+   "Mfr_Name": "PICKERING CONVERSIONS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2271,
+   "Mfr_Name": "PICKWICK COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2272,
+   "Mfr_Name": "PIECES DE CAMION R. NADEAU INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2273,
+   "Mfr_Name": "PIEDMONT SERVICE TRUCKS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2274,
+   "Mfr_Name": "PIERCE MANUFACTURING COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2277,
+   "Mfr_Name": "PIKE TRAILER COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2278,
+   "Mfr_Name": "PILGRIM MANUFACTURING CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2279,
+   "Mfr_Name": "PACIFIC TRUCK COLORS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2280,
+   "Mfr_Name": "PACIFIC TRUCK EQUIPMENT INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2281,
+   "Mfr_Name": "PACIFIC TRUCK TANK INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2283,
+   "Mfr_Name": "PAK-MOR MANUFACTURING COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2284,
+   "Mfr_Name": "PALMER MACHINE WORKS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2285,
+   "Mfr_Name": "MEEKS ENGINEERING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2286,
+   "Mfr_Name": "MEEKS TRUCK & TRAILER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2287,
+   "Mfr_Name": "MELRAY INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2288,
+   "Mfr_Name": "MELTON MOTOR CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2289,
+   "Mfr_Name": "MEMPHIS AUTO PARTS CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2290,
+   "Mfr_Name": "PITTS ENTERPRISES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2291,
+   "Mfr_Name": "PITTSBURGH MACK SALES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2292,
+   "Mfr_Name": "PITTSBURGH MACK SALES & SERVICE INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2293,
+   "Mfr_Name": "PITTSBURGH MOTORCYCLE WORKS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2294,
+   "Mfr_Name": "PIVOT PRODUCTS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "PL Custom Emergency Vehicles",
+   "Mfr_ID": 2295,
+   "Mfr_Name": "P.L. CUSTOM BODY AND EQUIPMENT CO.,INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2296,
+   "Mfr_Name": "PLANET ELECTRIC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "N/A",
+   "Mfr_ID": 2297,
+   "Mfr_Name": "PLATINUM MANUFACTURING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2298,
+   "Mfr_Name": "PLATT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2299,
+   "Mfr_Name": "SOUTHWEST TRUCK BODY COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2300,
+   "Mfr_Name": "SPACE CREATORS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2301,
+   "Mfr_Name": "BAXTER STEFAN INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2302,
+   "Mfr_Name": "SPANO CRANE SALES & SERVICE CORP.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2303,
+   "Mfr_Name": "TRINITY INDUSTRIES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2304,
+   "Mfr_Name": "TRINITY TRAILER MFG., INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2305,
+   "Mfr_Name": "TRINITY TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2306,
+   "Mfr_Name": "TRIPLE B TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2307,
+   "Mfr_Name": "TRIPLE B&J TRAILERS MFG. INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2308,
+   "Mfr_Name": "TRIPLE C SERVICES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2310,
+   "Mfr_Name": "TRIPLE E CANADA LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2311,
+   "Mfr_Name": "TRIPLE G TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2312,
+   "Mfr_Name": "TRADEWINDS CONVERSIONS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2314,
+   "Mfr_Name": "TRAIL CAR TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2315,
+   "Mfr_Name": "TRAIL CRAFT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2316,
+   "Mfr_Name": "TRAIL MAKER TRAILERS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2317,
+   "Mfr_Name": "SPECIAL FLEET SERVICE INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 2318,
+   "Mfr_Name": "SPECIALIZED PRODUCTS INC",
+   "VehicleTypes": []
+  }
+ ]
+}

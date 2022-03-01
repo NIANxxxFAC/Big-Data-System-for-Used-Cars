@@ -1,0 +1,740 @@
+{
+ "Count": 90,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Back  Off  Lowboys",
+   "Mfr_ID": 17963,
+   "Mfr_Name": "SAM'S TRANSPORT COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17964,
+   "Mfr_Name": "ROCKIN H INDUSTRIES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17965,
+   "Mfr_Name": "G&S Enterprise",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17966,
+   "Mfr_Name": "Isis Imports",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17967,
+   "Mfr_Name": "CHANGZHOU JIUDING AUTOMOBILE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": "HANGZHOU BROAD WAY",
+   "Mfr_ID": 17968,
+   "Mfr_Name": "HANGZHOU BROAD WAY PUBLIC SECURITY TECHNOLOGY CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "Harbeck",
+   "Mfr_ID": 17969,
+   "Mfr_Name": "HERMANN HARBECK FAHRZEUGBAU GMBH & CO. KG",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17970,
+   "Mfr_Name": "JIANGSU RUNCHANG RUBBER TECHNOLOGY CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17971,
+   "Mfr_Name": "VIMAR TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17972,
+   "Mfr_Name": "Bean Trailer Manufacturing, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17973,
+   "Mfr_Name": "FOUR MILE FABRICATION LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Waters International",
+   "Mfr_ID": 17974,
+   "Mfr_Name": "WATERS INTERNATIONAL TRUCKS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "JAKShax Fish House and R.V.",
+   "Mfr_ID": 17975,
+   "Mfr_Name": "JAK STEELE MFG. LLC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17976,
+   "Mfr_Name": "Accel Trailers Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ENGLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17977,
+   "Mfr_Name": "The Rover Group plc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17978,
+   "Mfr_Name": "Mr. Air Sweepers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17979,
+   "Mfr_Name": "SturdyWeld Equipment & Design, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17980,
+   "Mfr_Name": "Dacus Manufacturing Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17981,
+   "Mfr_Name": "Sopko Manufacturing Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17982,
+   "Mfr_Name": "Ashcan Fab. Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17983,
+   "Mfr_Name": "SCS Machine & Fabricating, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17984,
+   "Mfr_Name": "Diamond-K-Mfg.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17985,
+   "Mfr_Name": "R and S Trailers Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17986,
+   "Mfr_Name": "M & R Trailers Mfg.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17987,
+   "Mfr_Name": "Coffeeville Trailer Manufacturing, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17988,
+   "Mfr_Name": "Container Enterprise",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17989,
+   "Mfr_Name": "Dimensional Homes, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17990,
+   "Mfr_Name": "Henley's Trailers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17991,
+   "Mfr_Name": "Westcar Industries Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17992,
+   "Mfr_Name": "RAB Trailer Manufacturers",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17993,
+   "Mfr_Name": "Auctioneering Systems, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17994,
+   "Mfr_Name": "David B. Knight & Associates, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17995,
+   "Mfr_Name": "The Nolan Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17996,
+   "Mfr_Name": "Phoenix Industries & Apparatus, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17997,
+   "Mfr_Name": "BLACKWATER IRONWORKS, LLC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Dyreng Farms",
+   "Mfr_ID": 17998,
+   "Mfr_Name": "DYRENG FARMS & DAIRY LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 17999,
+   "Mfr_Name": "ATF MFG, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Martin",
+   "Mfr_ID": 18000,
+   "Mfr_Name": "MARTIN TRUCK BODIES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18001,
+   "Mfr_Name": "Loeffler Filtration Group",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18002,
+   "Mfr_Name": "Northwest Trailer Sales & Service",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18003,
+   "Mfr_Name": "P & P Manufacturing",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18004,
+   "Mfr_Name": "Sikeston Trailer Sales",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18005,
+   "Mfr_Name": "Welding Unlimited ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18006,
+   "Mfr_Name": "Ray Gaskin Service",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18007,
+   "Mfr_Name": "National Steelworks, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18008,
+   "Mfr_Name": "Wiser Trailer and Equipment",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18009,
+   "Mfr_Name": "Decatur Industrial & Tech Center",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18010,
+   "Mfr_Name": "T.W.G. Machine, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18011,
+   "Mfr_Name": "Southern Iowa Manufacturing Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18012,
+   "Mfr_Name": "Randi and Assoc. Corp. dba Trans Spec",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18013,
+   "Mfr_Name": "CTR Inc. Trailer & Custom Truck Division",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18014,
+   "Mfr_Name": "T. Rome Ent.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18015,
+   "Mfr_Name": "R-Way Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18016,
+   "Mfr_Name": "WENTWORTH ENTERPRISES INC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18017,
+   "Mfr_Name": "K & K MANUFACTURING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18018,
+   "Mfr_Name": "Omega Southwest Mfg., Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18019,
+   "Mfr_Name": "Stallion Trailers, Inc. ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18020,
+   "Mfr_Name": "Golden Eagle Trailer Manufacturing & Welding Works",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18021,
+   "Mfr_Name": "C & O Manufacturing",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18022,
+   "Mfr_Name": "Custom Trailers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18023,
+   "Mfr_Name": "Fobes Welding & Iron Works",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18024,
+   "Mfr_Name": "B&B Trailer Mfg",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18025,
+   "Mfr_Name": "The Shop  ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18026,
+   "Mfr_Name": "New Commander Trailers, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18027,
+   "Mfr_Name": "Equipment Maintenance & Repair Service",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18028,
+   "Mfr_Name": "E.C. Woods",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18029,
+   "Mfr_Name": "Corn Belt Manufacturing, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18030,
+   "Mfr_Name": "Trail Rite Trailers",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18031,
+   "Mfr_Name": "Cheney Weeder Manufacturing Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18032,
+   "Mfr_Name": "S.D. Pitman, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18033,
+   "Mfr_Name": "Custom Welding And Trailers",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18034,
+   "Mfr_Name": "JUBILEE TRAILERS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18035,
+   "Mfr_Name": "BENNETT'S PERFORMANCE V TWIN, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "PDI Auto Parts / PERDE / HeadlightsDepot",
+   "Mfr_ID": 18036,
+   "Mfr_Name": "PERFORMANCE DEPOT INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "HBT SMOKERS",
+   "Mfr_ID": 18037,
+   "Mfr_Name": "HBT SMOKERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Triple C Trailers",
+   "Mfr_ID": 18038,
+   "Mfr_Name": "TRIPLE C FABRICATION LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "XL Drive",
+   "Mfr_ID": 18039,
+   "Mfr_Name": "XL CARTS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18040,
+   "Mfr_Name": "Circle A Prefab, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18041,
+   "Mfr_Name": "Peerless Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18042,
+   "Mfr_Name": "M & W Manufacturing",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18043,
+   "Mfr_Name": "S & A Manufacturing",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18044,
+   "Mfr_Name": "Sportsmen's Travel Trailers (KZ Inc.)",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18045,
+   "Mfr_Name": "R&W Mfg., Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18046,
+   "Mfr_Name": "Hausman Bus Sales, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18047,
+   "Mfr_Name": "Custom Equipment Builders, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18048,
+   "Mfr_Name": "Spirit Trailer Mfg.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18049,
+   "Mfr_Name": "RIVER CITY HYDRAULICS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18050,
+   "Mfr_Name": "Coburn Equipment & Repairs",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18051,
+   "Mfr_Name": "C.C. Rider Trailer Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18052,
+   "Mfr_Name": "Nu Tech Trailer Inc.",
+   "VehicleTypes": []
+  }
+ ]
+}

@@ -1,0 +1,767 @@
+{
+ "Count": 100,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4964,
+   "Mfr_Name": "BLAZE ENTERPRISES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4965,
+   "Mfr_Name": "BLAZING GLORY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4966,
+   "Mfr_Name": "BLAZON MOBILE HOMES CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4967,
+   "Mfr_Name": "BLISS' TORCH WORKS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4968,
+   "Mfr_Name": "BLITZ BODY CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4970,
+   "Mfr_Name": "REBEL MANUFACTURING,  LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4971,
+   "Mfr_Name": "RECREATIONAL ENTERPRISES CORP.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4972,
+   "Mfr_Name": "RECUBRIDORA GUADALAJARA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4973,
+   "Mfr_Name": "CALIFORNIA CUSTOM DESIGN, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4974,
+   "Mfr_Name": "RED EWALD, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4976,
+   "Mfr_Name": "RED HOT CUSTOMS.COM",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4977,
+   "Mfr_Name": "RED RHINO TRAILER MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4978,
+   "Mfr_Name": "RED RIVER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4980,
+   "Mfr_Name": "REDMAN INDUSTRIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4981,
+   "Mfr_Name": "REDMAN WESTERN CORP.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4982,
+   "Mfr_Name": "REDNECK ENGINEERING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4983,
+   "Mfr_Name": "REDWOOD KENWORTH COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4984,
+   "Mfr_Name": "REDWOOD METAL WORKS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4985,
+   "Mfr_Name": "REED SYSTEMS LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4986,
+   "Mfr_Name": "REED'S WELDING INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4987,
+   "Mfr_Name": "REESE PRODUCTS, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4988,
+   "Mfr_Name": "SUPERIOR TRAILER WORKS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4989,
+   "Mfr_Name": "SUPERIOR TRAILERS DIV OF KIRKLAND AND AMOS LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4990,
+   "Mfr_Name": "TRUCK EQUIPMENT COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4991,
+   "Mfr_Name": "TRUCK EQUIPMENT COMPANY, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4992,
+   "Mfr_Name": "TRUCK EQUIPMENT CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4993,
+   "Mfr_Name": "TRUCK EQUIPMENT DIV., OF WARNER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4994,
+   "Mfr_Name": "TRUCK EQUIPMENT HAWAII, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4995,
+   "Mfr_Name": "TRUCK EQUIPMENT INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4996,
+   "Mfr_Name": "TRUCK EQUIPMENT SALES COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4997,
+   "Mfr_Name": "TRUCK EQUIPMENT SALES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4998,
+   "Mfr_Name": "TRUCK EQUIPMENT SERVICE COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 4999,
+   "Mfr_Name": "TRUCK EQUIPMENT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5000,
+   "Mfr_Name": "TRUCK EQUIPMETNT INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5001,
+   "Mfr_Name": "TRUCK HOIST INDUSTRIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5002,
+   "Mfr_Name": "TRUCK HOIST SYSTEMS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5003,
+   "Mfr_Name": "TRUCK HYDRAULIC EQUIPMENT CO., INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5004,
+   "Mfr_Name": "JERR-DAN CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5005,
+   "Mfr_Name": "JET FORCE, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5006,
+   "Mfr_Name": "JET SETTLER TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5007,
+   "Mfr_Name": "JETECH, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5008,
+   "Mfr_Name": "CENTRAL WHEEL & BRAKE COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5009,
+   "Mfr_Name": "HERITAGE INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5010,
+   "Mfr_Name": "HERITAGE INDUSTRIES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5011,
+   "Mfr_Name": "HERITAGE MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5012,
+   "Mfr_Name": "HERITAGE MARKETING INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5017,
+   "Mfr_Name": "HERMAN LEASING INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5018,
+   "Mfr_Name": "HERNCO FABRICATION & SERVICES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5019,
+   "Mfr_Name": "HERRIN WELDING SERVICE, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5020,
+   "Mfr_Name": "HESCO SALES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5021,
+   "Mfr_Name": "HESS SERVICES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5022,
+   "Mfr_Name": "HESS-SEXTON CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5023,
+   "Mfr_Name": "HI-LITE RV MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5024,
+   "Mfr_Name": "HI ROLLIN TRAILER MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5025,
+   "Mfr_Name": "B & M HI-LITE",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5026,
+   "Mfr_Name": "B & S TRUCK BODY INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5027,
+   "Mfr_Name": "B & T MANUFACTURING DBA  XTREME TRAILER",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5028,
+   "Mfr_Name": "B & Z TRUCK BODIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5029,
+   "Mfr_Name": "B AND M TRAILERS SALES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5030,
+   "Mfr_Name": "B L INDUSTRIES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5031,
+   "Mfr_Name": "B&B ENTERPRISES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5032,
+   "Mfr_Name": "B&B HOMES INC DBA TETON HOMES DBA TETON INT.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5033,
+   "Mfr_Name": "B&G CUSTOM CREATION VANS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5034,
+   "Mfr_Name": "B & K TRAILERS, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5035,
+   "Mfr_Name": "B&R TRAILER MFG., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5036,
+   "Mfr_Name": "B-ISTLES TRUCKS PART",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5037,
+   "Mfr_Name": "B. FOSTER & CO. INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5038,
+   "Mfr_Name": "B. H. CHESLEY COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5039,
+   "Mfr_Name": "B.E.E. WELDING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5041,
+   "Mfr_Name": "B.L. INDUSTRIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5042,
+   "Mfr_Name": "B.W. RIG REPAIR AND SUPPLY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5043,
+   "Mfr_Name": "BACKTREK COMPANY ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5044,
+   "Mfr_Name": "COUNTY LINE TRAILER CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5045,
+   "Mfr_Name": "COUNTY ROAD TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5046,
+   "Mfr_Name": "BOB'S WELDING & FABRICATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5047,
+   "Mfr_Name": "BOBCAT TRAILER CO INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5048,
+   "Mfr_Name": "GOLF CARS LIMITED, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5049,
+   "Mfr_Name": "GOLF CART OUTLET INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5050,
+   "Mfr_Name": "GOOD TIME PRODUCTIONS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5051,
+   "Mfr_Name": "PULMOR INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5052,
+   "Mfr_Name": "GOODMAN MOTORCYCLES LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5053,
+   "Mfr_Name": "ACOUSTICAL CONTROL SYSTEMS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5054,
+   "Mfr_Name": "CLEAN HARBORS ENVIRONMENTAL SERVICES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5055,
+   "Mfr_Name": "ACTION FLEET & TRUCK EQUIP. INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5056,
+   "Mfr_Name": "ACTION INDUSTRIAL STUDIO",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5057,
+   "Mfr_Name": "ACTION INDUSTRIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5058,
+   "Mfr_Name": "ACTION TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5059,
+   "Mfr_Name": "ACTION VANS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5060,
+   "Mfr_Name": "ACTION WELDING & FABRICATION, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5061,
+   "Mfr_Name": "ADAM BLACK & SONS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5062,
+   "Mfr_Name": "ADAMS & FOGG OIL EQUIPMENT CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5063,
+   "Mfr_Name": "ADAMS EQUIPMENT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5064,
+   "Mfr_Name": "ADAMS-IRICK TRUCK BODY WORKS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5065,
+   "Mfr_Name": "ADIRONDACK KOTTAGES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5066,
+   "Mfr_Name": "ADIRONDACK WHITE PINE CABINS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5067,
+   "Mfr_Name": "ADLER TANK RENTALS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5068,
+   "Mfr_Name": "ADMIRAL TRUCK EQUIPMENT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5069,
+   "Mfr_Name": "ADOLPH TRUCK EQUIPMENT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5070,
+   "Mfr_Name": "ADRIAN STEEL COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 5071,
+   "Mfr_Name": "ADSCOM CORPORATION",
+   "VehicleTypes": []
+  }
+ ]
+}

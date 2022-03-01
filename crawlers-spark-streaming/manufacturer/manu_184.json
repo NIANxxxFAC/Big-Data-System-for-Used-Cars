@@ -1,0 +1,963 @@
+{
+ "Count": 83,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "",
+   "Mfr_ID": 19301,
+   "Mfr_Name": "ORVIL W CARTER, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19302,
+   "Mfr_Name": "PACK ENTERPRISES, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19303,
+   "Mfr_Name": "QINGDAO JINGTAI RUBBER PRODUCTS CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19304,
+   "Mfr_Name": "ROGUE TRUCK BODY, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19305,
+   "Mfr_Name": "PRO-TAINER, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19306,
+   "Mfr_Name": "SHERMAN + REILLY, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Signature Autosport",
+   "Mfr_ID": 19307,
+   "Mfr_Name": "SIGNATURE AUTOSPORT, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19308,
+   "Mfr_Name": "911 RAPID RESPONSE LLC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "MWGF",
+   "Mfr_ID": 19309,
+   "Mfr_Name": "MIDWEST GLASS FABRICATORS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19310,
+   "Mfr_Name": "5JS WELDING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Arrow Tank",
+   "Mfr_ID": 19311,
+   "Mfr_Name": "ARROW TANK AND ENGINEERING CO.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19312,
+   "Mfr_Name": "CIRCLE L TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19313,
+   "Mfr_Name": "MONTROSE MANUFACTURING INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19314,
+   "Mfr_Name": "THE TRAILERSHOP INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19315,
+   "Mfr_Name": "HEMPHILL BROTHERS LEASING CO. LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Deep creek LSV",
+   "Mfr_ID": 19316,
+   "Mfr_Name": "DEEP CREEK CARTS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19317,
+   "Mfr_Name": "AMERICAN LIFAN",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19318,
+   "Mfr_Name": "SMOK'T",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19319,
+   "Mfr_Name": "SHUBERT CUSTOM CYCLES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19320,
+   "Mfr_Name": "ATLANTIC COAST EXOTICS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19321,
+   "Mfr_Name": "MCCORMIC WELDING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "ICART EV",
+   "Mfr_ID": 19322,
+   "Mfr_Name": "ICART EV LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "SWEDEN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19323,
+   "Mfr_Name": "HAMMERGLASS AB",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19324,
+   "Mfr_Name": "NINGBO DALONG SMOOTH LOCOMOTIVE INDUSTRY CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19325,
+   "Mfr_Name": "RUI\u2019AN JUBANG AUTO PARTS CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19326,
+   "Mfr_Name": "SHANDONG JUNCHENG METAL TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19327,
+   "Mfr_Name": "VISIONPLUS (HK) LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": "LSH",
+   "Mfr_ID": 19328,
+   "Mfr_Name": "WUXI LSH IMPORT & EXPORT CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19329,
+   "Mfr_Name": "ZHEJIANG YINHONG AUTO & MOTORCYCLE ACCESSORIES CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19330,
+   "Mfr_Name": "EMERGENCY MOBILE TECH. INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Padgett Mobile Equipment",
+   "Mfr_ID": 19331,
+   "Mfr_Name": "PADGETT MOBILE EQUIPMENT",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Stamm",
+   "Mfr_ID": 19332,
+   "Mfr_Name": "WORLD INDUSTRIAL EQUIPMENT, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Scamp Trailers",
+   "Mfr_ID": 19333,
+   "Mfr_Name": "EVELAND\u2019S INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Arctic Cat",
+   "Mfr_ID": 19334,
+   "Mfr_Name": "ARCTIC CAT INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19335,
+   "Mfr_Name": "FATMAN CYCLES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "PARK MODEL RV'S",
+   "Mfr_ID": 19336,
+   "Mfr_Name": "CHAMPION HOME BUILDERS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19337,
+   "Mfr_Name": "DANNY JACKSON dba DJ Trailers",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19338,
+   "Mfr_Name": "GENCOR INDUSTRIES INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Kimbo",
+   "Mfr_ID": 19339,
+   "Mfr_Name": "KIMBO CAMPERS LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19340,
+   "Mfr_Name": "IOWA SFK LEASING INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19341,
+   "Mfr_Name": "ALL ACCESS COACH LEASING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19342,
+   "Mfr_Name": "FLORIDA COACH, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19343,
+   "Mfr_Name": "NITETRAIN COACH COMPANY, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19344,
+   "Mfr_Name": "RUSSELL COACHWORKS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19345,
+   "Mfr_Name": "FIRSTHEALTH OF THE CAROLINAS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19346,
+   "Mfr_Name": "GEOMARC, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19347,
+   "Mfr_Name": "ROBERTS BROTHERS COACH COMPANY INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19348,
+   "Mfr_Name": "SIMPLIFIED FABRICATORS INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19349,
+   "Mfr_Name": "WYOMING BEARING & SUPPLY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19350,
+   "Mfr_Name": "PIONEER COACH INTERIORS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Tropos",
+   "Mfr_ID": 19351,
+   "Mfr_Name": "TROPOS TECHNOLOGIES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19352,
+   "Mfr_Name": "3 CUSTOM SOLUTIONS (DBA) 3CS RANCH LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Berkon",
+   "Mfr_ID": 19353,
+   "Mfr_Name": "BERKON INDUSTRIES, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19354,
+   "Mfr_Name": "LAMBERT WELDING & SANDBLASTING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19355,
+   "Mfr_Name": "HELIO ENTERPRISES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19356,
+   "Mfr_Name": "AMC APARATOS MECANICOS DE CALIDAD, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "NORWAY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19357,
+   "Mfr_Name": "FOLDTRAILER LIMITED",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19358,
+   "Mfr_Name": "GUANGZHOU RUNYE AUTO PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19359,
+   "Mfr_Name": "JINYUN QIANGFU METAL PRODUCTS CO.,LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19360,
+   "Mfr_Name": "LONGKOU RONGDI MECHANIC PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "POLAND",
+   "Mfr_CommonName": "METBOX",
+   "Mfr_ID": 19361,
+   "Mfr_Name": "METBOX KURPAS SP\u00d3LKA JAWNA",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": "Min Hsiang",
+   "Mfr_ID": 19362,
+   "Mfr_Name": "MIN HSIANG CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDONESIA",
+   "Mfr_CommonName": "Deli Tire",
+   "Mfr_ID": 19363,
+   "Mfr_Name": "PT INDUSTRI KARET DELI",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19364,
+   "Mfr_Name": "QINGDAO HOIRO MARINE CO.,LIMITED",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19365,
+   "Mfr_Name": "QINGDAO TULECHI RUBBER CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": "Sunnyda",
+   "Mfr_ID": 19366,
+   "Mfr_Name": "SHANGHAI SUNNYDA INDUSTRY CO.,LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19367,
+   "Mfr_Name": "SHENZHEN AURORA TECHNOLOGY LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19368,
+   "Mfr_Name": "SHENZHEN YOU-SAN TECHNOLOGY CO., LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19369,
+   "Mfr_Name": "WUXI KAISHENG MACHINE MANUFACTURE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Reed",
+   "Mfr_ID": 19370,
+   "Mfr_Name": "REED LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19371,
+   "Mfr_Name": "MOR- STORAGE LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19372,
+   "Mfr_Name": "HOWE & HOWE TECHNOLOGIES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19373,
+   "Mfr_Name": "STRONGARM TRAILERS AND HITCHES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19374,
+   "Mfr_Name": "PLATINUM ELECTRIC VEHICLES LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19375,
+   "Mfr_Name": "MBS TRUCK & EQIPMENT INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19376,
+   "Mfr_Name": "DMI Contractors, Inc.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "TenSpeedTears",
+   "Mfr_ID": 19377,
+   "Mfr_Name": "TENSPEEDTEARS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19378,
+   "Mfr_Name": "JIM'S TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19379,
+   "Mfr_Name": "EMERGENCY VEHICLE REPAIR LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19380,
+   "Mfr_Name": "PT HOSE AND BEARING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Apex Equipment Sales",
+   "Mfr_ID": 19381,
+   "Mfr_Name": "APEX EQUIPMENT SALES, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19382,
+   "Mfr_Name": "RED ROCK TRAILER MFG, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 19383,
+   "Mfr_Name": "FRANCIS ENOS FIRE PUMP REPAIR",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,889 @@
+{
+ "Count": 95,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10743,
+   "Mfr_Name": "CUSTOM QUALITY TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10744,
+   "Mfr_Name": "YUBA TRAILER MFG.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10745,
+   "Mfr_Name": "PROTECTED VEHICLES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10746,
+   "Mfr_Name": "HOUSTON AUTOMOTIVE GROUP INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10747,
+   "Mfr_Name": "HEMPHILL, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10748,
+   "Mfr_Name": "CART COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10749,
+   "Mfr_Name": "WILD METAL MANUFACTURING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10750,
+   "Mfr_Name": "THEODORE E. POEHLER ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10751,
+   "Mfr_Name": "FISCHER CRANE COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10752,
+   "Mfr_Name": "CERBERUS TRIKES, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10753,
+   "Mfr_Name": "DRIVING AMBITIONS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10754,
+   "Mfr_Name": "WUXI JINHONG MOTORCYCLE CO., LTD",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10755,
+   "Mfr_Name": "JINHUA HONGYING CRAFTS CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10757,
+   "Mfr_Name": "BENELLI Q.J. SRL",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Maxxd",
+   "Mfr_ID": 10758,
+   "Mfr_Name": "MAXEY TRAILERS MFG., INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10759,
+   "Mfr_Name": "HULL WELDING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10760,
+   "Mfr_Name": "CIXI KONCED MOTORCYCLE CO., LTD",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10762,
+   "Mfr_Name": "MAGNA AFTERMARKET OF AMERICA, INC. ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10763,
+   "Mfr_Name": "AUTO TRUCK INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10765,
+   "Mfr_Name": "BBC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10766,
+   "Mfr_Name": "EXECUTIVE CHOPPERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10768,
+   "Mfr_Name": "TUFF-BUILT TRAILERS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10769,
+   "Mfr_Name": "ARCWELD INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10770,
+   "Mfr_Name": "THULE TRAILERS A DIVISION OF THULE TOWING SYSTEMS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10771,
+   "Mfr_Name": "TOURNIER MFG. INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10772,
+   "Mfr_Name": "LIME LITE COACH SALES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10773,
+   "Mfr_Name": "TITAN HAUL USA",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10774,
+   "Mfr_Name": "YUEQING ZHENXING MOTORCYCLE FITTINGS CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10775,
+   "Mfr_Name": "CUSCO FABRICATORS, INC. AKA WASTEQUIP CUSCO INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10776,
+   "Mfr_Name": "FREEBORN'S CHOP SHOP, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10777,
+   "Mfr_Name": "ALLENTOWN SHOTCRETE TECHNOLOGY, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10778,
+   "Mfr_Name": "QUALITY MANUFACTURING CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10779,
+   "Mfr_Name": "BAD BOYS CHOPPERS, INC. DBA MATEO CYCLES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10780,
+   "Mfr_Name": "PINNACLE LIMOUSINES MANUFACTURING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10781,
+   "Mfr_Name": "BLUE RIBBON PERFORMANCE, INC. dba BLUE RIBBON CUST",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10782,
+   "Mfr_Name": "SWEDE BUILT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10783,
+   "Mfr_Name": "SUICIDE JACK CHOPPERS LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10784,
+   "Mfr_Name": "NAKUTIS CUSTOM CHOPPERS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Gear Gasm",
+   "Mfr_ID": 10785,
+   "Mfr_Name": "GEAR GASM CYCLE",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10786,
+   "Mfr_Name": "SPEED STREET CUSTOM BUILDS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10787,
+   "Mfr_Name": "ERIE VEHICLE COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10788,
+   "Mfr_Name": "EXCEL TRUCK EQUIPMENT SPECIALTIES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10789,
+   "Mfr_Name": "VECTOR AEROMOTIVE CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10790,
+   "Mfr_Name": "VECTOR TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10791,
+   "Mfr_Name": "VEGA INTEGRATED PRODUCTS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10792,
+   "Mfr_Name": "VEGUZTI S.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10793,
+   "Mfr_Name": "VEHICLE CONCEPTS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10794,
+   "Mfr_Name": "VEHICLE CONCEPTS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10795,
+   "Mfr_Name": "VELCON FILTERS INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10796,
+   "Mfr_Name": "VERMEER MANUFACTURING COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10797,
+   "Mfr_Name": "VENGEANCE MOTORCYCLES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10798,
+   "Mfr_Name": "VENUS ASSOCIATES INTERNATIONAL TRADE(& MANUFACTURING) LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10799,
+   "Mfr_Name": "VERI-LITE, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Vermeer",
+   "Mfr_ID": 10801,
+   "Mfr_Name": "VERMEER FREEMAN MANUFACTURING INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10802,
+   "Mfr_Name": "VERNON TRAILER COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10803,
+   "Mfr_Name": "VERNZ TRUCKIN EQUIPMENT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10804,
+   "Mfr_Name": "VERSA-HAUL, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10805,
+   "Mfr_Name": "VERSATRAIL, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10806,
+   "Mfr_Name": "VESELY COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "T&E ENTERPRISES",
+   "Mfr_ID": 10807,
+   "Mfr_Name": "T&E ENTERPRISES OF HERSCHER, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10808,
+   "Mfr_Name": "T & T ENTERPRISES & MFG., LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10809,
+   "Mfr_Name": "Water Wars Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10810,
+   "Mfr_Name": "TAYLOR MOTORS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10811,
+   "Mfr_Name": "TBM MFG.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10812,
+   "Mfr_Name": "TEX MEX TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10813,
+   "Mfr_Name": "TEXA STAGECOACH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10815,
+   "Mfr_Name": "THE EDWARD R. BACON COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10816,
+   "Mfr_Name": "THE FYDA WHITE TRUCK CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10817,
+   "Mfr_Name": "THE HAMBY COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10818,
+   "Mfr_Name": "THE HORTON COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10819,
+   "Mfr_Name": "THOMAS BUILT BUSES DE MEXICO, S.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10820,
+   "Mfr_Name": "KYZER ALUMINUM INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10821,
+   "Mfr_Name": "LAKE TECHNOLOGY PRODUCTS INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10822,
+   "Mfr_Name": "LAKEVIEW MFG",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10823,
+   "Mfr_Name": "LAMINO OY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10825,
+   "Mfr_Name": "LEADER INDUSTRIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10826,
+   "Mfr_Name": "LEDBETTER WELDING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10827,
+   "Mfr_Name": "LEE EQUIPMENT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10828,
+   "Mfr_Name": "LEGEND MANUFACTURING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10829,
+   "Mfr_Name": "LEISURE RESORTS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10830,
+   "Mfr_Name": "LINEAR DYNAMICS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10831,
+   "Mfr_Name": "LOAD EAZ TRAILER CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10833,
+   "Mfr_Name": "BILLS PERFORMANCE AUTOMOTIVE",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10834,
+   "Mfr_Name": "TRAIL WAGONS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10836,
+   "Mfr_Name": "TRAIL-RITE INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10837,
+   "Mfr_Name": "TRAILER & TRUCK",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10839,
+   "Mfr_Name": "TRAVIS BODY & TRAILER, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10840,
+   "Mfr_Name": "TRI-STATE FORD TRUCK SALES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10841,
+   "Mfr_Name": "TRIANGLE BODY WORKS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10842,
+   "Mfr_Name": "TROUT CREEK ENTERPRISES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10843,
+   "Mfr_Name": "TRUCK & EQUIPMENT SERVICE CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10844,
+   "Mfr_Name": "TRUCK BODY CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10845,
+   "Mfr_Name": "TRUCK EQUIPMENT CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10846,
+   "Mfr_Name": "TULSA EQUIPMENT SALES & SERVICE INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10849,
+   "Mfr_Name": "TWO-DAY TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  }
+ ]
+}

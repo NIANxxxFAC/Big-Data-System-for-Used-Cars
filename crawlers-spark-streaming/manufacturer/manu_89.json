@@ -1,0 +1,807 @@
+{
+ "Count": 90,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10042,
+   "Mfr_Name": "UNIQUE PERFORMANCE CUSTOMS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10043,
+   "Mfr_Name": "BLACK DRAGON CHOPPERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10044,
+   "Mfr_Name": "FLAT CREEK LODGES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10045,
+   "Mfr_Name": "FONTAINE TRAILER MILITARY PRODUCTS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10046,
+   "Mfr_Name": "SABRE EQUIPMENT INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10047,
+   "Mfr_Name": "SPEED & PRECISION CYCLES LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10048,
+   "Mfr_Name": "ALL STEEL FABRICATION INC. dba ALLIED STEEL &",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10049,
+   "Mfr_Name": "TWISTED STEEL CHOPPERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10050,
+   "Mfr_Name": "LATCO INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "NETHERLANDS",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10051,
+   "Mfr_Name": "ATEC AANHANGWAGENS BV",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10052,
+   "Mfr_Name": "BIG BOYZ MINI CHOPPERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10053,
+   "Mfr_Name": "BURBANK MOTORS CORP. DBA BURQUIP",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10054,
+   "Mfr_Name": "NORTH SHORE MOTORCYCLES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10055,
+   "Mfr_Name": "DREWES ENGINEERING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10056,
+   "Mfr_Name": "MOBILIGHT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "AUSTRALIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10057,
+   "Mfr_Name": "KIMBERLEY KAMPERS PTY LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10058,
+   "Mfr_Name": "ELITE TRAILERS, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10059,
+   "Mfr_Name": "SOONER MANUFACTURING, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10060,
+   "Mfr_Name": "NEW RIVER HOMES, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10061,
+   "Mfr_Name": "ROLLING THUNDER LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10062,
+   "Mfr_Name": "JALOPY CHOPPERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10063,
+   "Mfr_Name": "TAIWAN HELIO TECHNOLOGY CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10064,
+   "Mfr_Name": "CHOPPERS EAST",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10065,
+   "Mfr_Name": "LUCKY MFG, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10066,
+   "Mfr_Name": "ROADMASTER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10067,
+   "Mfr_Name": "SHERRY DESIGN/ DISCOVERY INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10068,
+   "Mfr_Name": "STILETTO RIDES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10069,
+   "Mfr_Name": "DIAMOND H TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10070,
+   "Mfr_Name": "UNITED SPECIALTIES, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10071,
+   "Mfr_Name": "WORLD TRANSPORT AUTHORITY INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10072,
+   "Mfr_Name": "WORLEY WELDING WORKS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10074,
+   "Mfr_Name": "WRANGLER CARGO TRAILER MFG",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10075,
+   "Mfr_Name": "WRANGLER TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10076,
+   "Mfr_Name": "TUTTLE MFG. COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10077,
+   "Mfr_Name": "TVR ENGINEERING LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10078,
+   "Mfr_Name": "TWADDLE MANUFACTURING, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10079,
+   "Mfr_Name": "TWAMCO TRAILERS MANUFACTURING, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10080,
+   "Mfr_Name": "TWF MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10081,
+   "Mfr_Name": "TWIN CITY TRAILER SALES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10083,
+   "Mfr_Name": "TWIN CITY TRUCK EQUIPMENT",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10084,
+   "Mfr_Name": "TWIN-STATES TRUCK EQUIPMENT CO. INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10085,
+   "Mfr_Name": "TXC MFG. CO. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10087,
+   "Mfr_Name": "TYMCO, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10088,
+   "Mfr_Name": "U S CARGO INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10090,
+   "Mfr_Name": "U S ELECTRICAR INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "U.S. Jetting",
+   "Mfr_ID": 10091,
+   "Mfr_Name": "U.S. JETTING, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10093,
+   "Mfr_Name": "U-HAUL INTERNATIONAL, INC. A NEVADA CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10094,
+   "Mfr_Name": "U.S. ABILITIES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10096,
+   "Mfr_Name": "U.S. AUTO MANUFACTURING, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10097,
+   "Mfr_Name": "KARAVAN TRAILERS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10098,
+   "Mfr_Name": "R. FILION MANUFACTURER INC. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10099,
+   "Mfr_Name": "KAYABA INDUSTRY CO., LTD. WORLD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10100,
+   "Mfr_Name": "KEARNEY TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10101,
+   "Mfr_Name": "KEERLE CARRIAGE WORKS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10102,
+   "Mfr_Name": "KEN HUBER INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10103,
+   "Mfr_Name": "KENCAR EQUIPMENT CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10105,
+   "Mfr_Name": "KIPPES BROTHERS LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10106,
+   "Mfr_Name": "KISER WELDING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10107,
+   "Mfr_Name": "KLAXON",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10108,
+   "Mfr_Name": "KRUGER TRAILERS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10109,
+   "Mfr_Name": "KRYSTAL KOACH INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10110,
+   "Mfr_Name": "KUGELFISCHER GEORG SCHAFER & CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10111,
+   "Mfr_Name": "NEW WORLD CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10112,
+   "Mfr_Name": "NOBLES INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10113,
+   "Mfr_Name": "NOR-CAL MOBILITY INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10114,
+   "Mfr_Name": "NORDLAMEX SAFETY GLASS OY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10116,
+   "Mfr_Name": "BROKEN BONZ INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10117,
+   "Mfr_Name": "SINISTER CUSTOM CYCLES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10119,
+   "Mfr_Name": "ARCADE IRON MOTORCYCLE COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Mickey Truck Bodies",
+   "Mfr_ID": 10121,
+   "Mfr_Name": "MICKEY TRUCK BODIES INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10122,
+   "Mfr_Name": "W.H. MOORE ENTERPRISES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10123,
+   "Mfr_Name": "W.H. PINGREE COMPANY, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10124,
+   "Mfr_Name": "W.H. ROSE, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Darley",
+   "Mfr_ID": 10125,
+   "Mfr_Name": "WS DARLEY & COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10126,
+   "Mfr_Name": "W.T. STRINGFELLO & CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10127,
+   "Mfr_Name": "WACHS VALVE & HYDRANT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10128,
+   "Mfr_Name": "WACKER CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10129,
+   "Mfr_Name": "WACO TRUCK BODIES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10130,
+   "Mfr_Name": "WADDELL WHITE TRUCK SALES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10133,
+   "Mfr_Name": "WADE SERVICES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10134,
+   "Mfr_Name": "WAGNER ELECTRIC CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10135,
+   "Mfr_Name": "WAGNER TRANSPORTATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10136,
+   "Mfr_Name": "WAGON WHEEL TRAILERS ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10137,
+   "Mfr_Name": "WALDEN BODY COMPANY, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10138,
+   "Mfr_Name": "WALDEN STRUCTURE'S, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10139,
+   "Mfr_Name": "WALDOCH CRAFTS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10140,
+   "Mfr_Name": "WALINGA, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10141,
+   "Mfr_Name": "WALKER MOUNTAIN TRAILERS UNLIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10142,
+   "Mfr_Name": "WALKER STAINLESS EQUIPMENT CO",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 10143,
+   "Mfr_Name": "WALKER STAINLESS EQUIPMENT LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  }
+ ]
+}

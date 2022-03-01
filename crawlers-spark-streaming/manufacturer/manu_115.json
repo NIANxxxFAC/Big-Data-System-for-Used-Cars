@@ -1,0 +1,800 @@
+{
+ "Count": 96,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12742,
+   "Mfr_Name": "HOLMES INTERNATIONAL INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12743,
+   "Mfr_Name": "HOLSCLAW BROS., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12744,
+   "Mfr_Name": "HOLT SALES AND SERVICE",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12745,
+   "Mfr_Name": "HOLT SPECIALTY EQUIPMENT, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12746,
+   "Mfr_Name": "HOLT TRAILER MFG. & SALES, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12747,
+   "Mfr_Name": "HOLT WHITE TRUCKS, INCORPORATED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12748,
+   "Mfr_Name": "HOLTE TRUCK EQUIPMENT & BODY CO INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12751,
+   "Mfr_Name": "HANMAR MOTOR CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12752,
+   "Mfr_Name": "HOME MANUFACTURING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12753,
+   "Mfr_Name": "HOMECO MANUFACTURED HOUSING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12754,
+   "Mfr_Name": "HOMESTEADER, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12755,
+   "Mfr_Name": "BACKYARD TRAILER SALES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12756,
+   "Mfr_Name": "BAD ASS CHOPPERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12757,
+   "Mfr_Name": "BADDORF & SONS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12758,
+   "Mfr_Name": "CHEROKEE TRUCK EQUIPMENT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12759,
+   "Mfr_Name": "CHESAPEAKE CLASSICS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12760,
+   "Mfr_Name": "CHESLEY CO.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12761,
+   "Mfr_Name": "CHEVRON/CHRYSTAR",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12762,
+   "Mfr_Name": "CHEYENNE MFG., CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12764,
+   "Mfr_Name": "CHICKASHA SUPERIOR COACH, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12765,
+   "Mfr_Name": "CHIEF INDUSTRIES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12766,
+   "Mfr_Name": "CHIEF SALES CO.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12767,
+   "Mfr_Name": "HOBBS EQUIPMENT CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12768,
+   "Mfr_Name": "HODGES TIRE & WHITE TRUCK, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12769,
+   "Mfr_Name": "HOEKSTRA TRUCK EQUIPMENT CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12770,
+   "Mfr_Name": "HOENER EQUIPMENT CO.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12771,
+   "Mfr_Name": "HOG HAULER INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12772,
+   "Mfr_Name": "HOG WILD TRAILER COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12773,
+   "Mfr_Name": "HOGAN TRANSPORTATION EQUIPMENT INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12774,
+   "Mfr_Name": "EASTERN WRECKER SALES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12775,
+   "Mfr_Name": "EASTERN, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12776,
+   "Mfr_Name": "EASTMOND TRAILER COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12777,
+   "Mfr_Name": "EASTON MACK TRUCK SALES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12778,
+   "Mfr_Name": "EASTWAY TANK PUMP AND METER LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12779,
+   "Mfr_Name": "EASY TIME TRAILERS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12780,
+   "Mfr_Name": "EASYSTREET",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12781,
+   "Mfr_Name": "AVCO RECREATIONAL VEHICLES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12782,
+   "Mfr_Name": "AVENGER CHASSIS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12783,
+   "Mfr_Name": "AVENGER CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12784,
+   "Mfr_Name": "AVESCO WELDING & FABRICATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12785,
+   "Mfr_Name": "AVIATOR",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12786,
+   "Mfr_Name": "AVIATOR VAN CONVERSIONS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12787,
+   "Mfr_Name": "AVION COACH CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12788,
+   "Mfr_Name": "AWESOME V8  CYCLES, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12789,
+   "Mfr_Name": "AXIS PRODUCTS INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12790,
+   "Mfr_Name": "AXLE & EQUIPMENT SALES CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12791,
+   "Mfr_Name": "AZ-TEX TRAILER MFG.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12792,
+   "Mfr_Name": "AZIMUTH INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12793,
+   "Mfr_Name": "AZTEC CONVERSIONS CORP.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12794,
+   "Mfr_Name": "AZTEC PRODUCTS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12795,
+   "Mfr_Name": "AZTEC TRADING CO",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12796,
+   "Mfr_Name": "B & B ENTERPRISES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12797,
+   "Mfr_Name": "B & B FABRICATORS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12798,
+   "Mfr_Name": "B & B INDUSTRIES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12799,
+   "Mfr_Name": "B & B TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12800,
+   "Mfr_Name": "B & E TRAILER SALES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12801,
+   "Mfr_Name": "B & G SUPPLY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12802,
+   "Mfr_Name": "B & L TRAILER MANUFACTURER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12805,
+   "Mfr_Name": "COLLINS TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12806,
+   "Mfr_Name": "COLMAN EQUIPMENT CO",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12810,
+   "Mfr_Name": "ESTABLISHMENT INDUSTRIES INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12811,
+   "Mfr_Name": "ESTES MACHINE CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12813,
+   "Mfr_Name": "ETHER ENTERPRISES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12814,
+   "Mfr_Name": "ETI ELECTRIC TRANSIT INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12815,
+   "Mfr_Name": "ETL EQUIPMENT SALES & SERVICE",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12816,
+   "Mfr_Name": "ETNOM CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12817,
+   "Mfr_Name": "ETS. CARTIER S.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12818,
+   "Mfr_Name": "EURO-LINER LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12820,
+   "Mfr_Name": "EUROPA INTERNATIONAL, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12821,
+   "Mfr_Name": "EVANS-PLUGGE COMPANY, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12822,
+   "Mfr_Name": "EVANSVILLE TRUCK EQUIPMENT INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12823,
+   "Mfr_Name": "EVERGREEN TRUCK EQUIPMENT COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12824,
+   "Mfr_Name": "EVERYTHING MARINE USA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12825,
+   "Mfr_Name": "EVEX SERVICES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12826,
+   "Mfr_Name": "EMERGENCY VEHICLE FABRICATORS, INC. DBA E.V.F.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12827,
+   "Mfr_Name": "EVRIDGE TRAILER CO., INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12828,
+   "Mfr_Name": "EVT TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12829,
+   "Mfr_Name": "EWELL EQUIPMENT CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12830,
+   "Mfr_Name": "HUGHES TOOL COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12831,
+   "Mfr_Name": "HUGHES TRAILER WORKS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12832,
+   "Mfr_Name": "HUGHES TRAILERS MANUFACTURING AND SALES L.L.C.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12833,
+   "Mfr_Name": "HULET BODY COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12834,
+   "Mfr_Name": "BRISTOL IRON WORKS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12835,
+   "Mfr_Name": "BRITISH LEYLAND MOTORS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12836,
+   "Mfr_Name": "BRNERAL RICH ENTERPRISE",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12837,
+   "Mfr_Name": "BROADNAX WHITE TRUCK CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12838,
+   "Mfr_Name": "BROADWAY FORD TRUCK SALES, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12839,
+   "Mfr_Name": "BROCKHOFF MANUFACTURING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12840,
+   "Mfr_Name": "CAMPBELL & KELLY INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12841,
+   "Mfr_Name": "CAMPBELL EQUIPMENT COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12842,
+   "Mfr_Name": "CAMPBELL TRAILERS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12843,
+   "Mfr_Name": "CEI MANUFACTURING ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12844,
+   "Mfr_Name": "CANADIAN BLUE BIRD COACH, LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12845,
+   "Mfr_Name": "CANCADE COMPANY LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 12846,
+   "Mfr_Name": "CANFIELD EQUIPMENT SERVICE INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": " ",
+   "Mfr_ID": 12847,
+   "Mfr_Name": "CANNON ENGINEERING & EQUIPMENT CO, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  }
+ ]
+}

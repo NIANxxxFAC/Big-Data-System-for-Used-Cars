@@ -1,0 +1,832 @@
+{
+ "Count": 81,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18434,
+   "Mfr_Name": "NEW THAI WHEEL MANUFACTURING CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18435,
+   "Mfr_Name": "PLEXIWEISS GMBH",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18436,
+   "Mfr_Name": "SHANDONG WANLONG MACHINERY CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18437,
+   "Mfr_Name": "TIANJIN LIZHONG GROUP CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18438,
+   "Mfr_Name": "XUCHANG YONGXIANG GLASS CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18439,
+   "Mfr_Name": "MICHAELS TRUCK EQUIPMENT, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18440,
+   "Mfr_Name": "RUTANA CONCESSIONS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "WeeRoll",
+   "Mfr_ID": 18441,
+   "Mfr_Name": "WEE ROLL LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18442,
+   "Mfr_Name": "BLIP MOTO LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18443,
+   "Mfr_Name": "MARTIN'S QUALITY TRUCK BODY INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18444,
+   "Mfr_Name": "SHENZHEN AOXINGDA AUTO LIGHTING CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18445,
+   "Mfr_Name": "CHANGZHOU OULANG AUTO PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18446,
+   "Mfr_Name": "Taizhou Fengchi Wheel Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18447,
+   "Mfr_Name": "Zhejiang Fengchi Mechanical Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18448,
+   "Mfr_Name": "Beijing Boe Commerce Co. Ltd",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18449,
+   "Mfr_Name": "SAINT-GOBAIN MEXICO SA DE CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18450,
+   "Mfr_Name": "ROADBOSS RUBBER TECHNOLOGY CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18451,
+   "Mfr_Name": "UNCHARTED TINY HOMES, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18452,
+   "Mfr_Name": "ALIEN VEHICLES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18453,
+   "Mfr_Name": "MICHAEL SCOTT HORSTMAN DBA HORSTMANS ON THE MOVE TRAILER SERVICE",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "NAVYA",
+   "Mfr_ID": 18454,
+   "Mfr_Name": "NAVYA INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Summit Products Inc",
+   "Mfr_ID": 18455,
+   "Mfr_Name": "INFONET CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18456,
+   "Mfr_Name": "PLANT EQUIPMENT CO. OF NM",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18457,
+   "Mfr_Name": "LOCAL MOTORS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18458,
+   "Mfr_Name": "MCGUIRE IRVINE CUSTOM FABRICATION, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "TA and Petro",
+   "Mfr_ID": 18459,
+   "Mfr_Name": "TA OPERATING LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18460,
+   "Mfr_Name": "VANDERLELY'S TRUCK SALES & SERVICE INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18461,
+   "Mfr_Name": "WAYCASTER PERFORMANCE LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18462,
+   "Mfr_Name": "AREA 51 GLOBAL LOGISTICS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18463,
+   "Mfr_Name": "TACTICAL VEHICLE OUTFITTERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18464,
+   "Mfr_Name": "RIDENOUR RIDES LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Mid City",
+   "Mfr_ID": 18465,
+   "Mfr_Name": "MID CITY ENGINEERING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "BRX Trailers",
+   "Mfr_ID": 18467,
+   "Mfr_Name": "BLUE RIDGE EXPEDITION TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18468,
+   "Mfr_Name": "TAIL GUNNER TRAILER INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18469,
+   "Mfr_Name": "CRITERION TRAILERS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Pro Care Auto",
+   "Mfr_ID": 18470,
+   "Mfr_Name": "PRO CARE AUTOMOTIVE REPAIR",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18471,
+   "Mfr_Name": "Piedmont Truck Tires, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "RennWorks",
+   "Mfr_ID": 18472,
+   "Mfr_Name": "RENNWORKS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18473,
+   "Mfr_Name": "NUEKIT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "DBL Design",
+   "Mfr_ID": 18474,
+   "Mfr_Name": "DBL DESIGN ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "B & S Supply",
+   "Mfr_ID": 18475,
+   "Mfr_Name": "B & S SUPPLY COMPANY LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18476,
+   "Mfr_Name": "Xuchang Yenuo Auto Parts Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18477,
+   "Mfr_Name": "Zongshen Industrial Group Co., Ltd",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "j&E custom trailers",
+   "Mfr_ID": 18478,
+   "Mfr_Name": "J&E CUSTOM UTILITY TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Bear Teardrops",
+   "Mfr_ID": 18479,
+   "Mfr_Name": "BEAR TEARDROP TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18480,
+   "Mfr_Name": "R.W. TRUCK EQUIPMENT CORP.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18481,
+   "Mfr_Name": "ENTRANS INTERNATIONAL, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18482,
+   "Mfr_Name": "Mudslide Chopps LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18483,
+   "Mfr_Name": "Alden Padfield Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "AUTO XTRAS",
+   "Mfr_ID": 18484,
+   "Mfr_Name": "AUTO XTRAS, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "PD2",
+   "Mfr_ID": 18485,
+   "Mfr_Name": "PD2, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Sparta Evolution",
+   "Mfr_ID": 18486,
+   "Mfr_Name": "MERCURY PARTNERS, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18487,
+   "Mfr_Name": "FLOOKS TRUCK AND TRAILER LLP",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": "NICHE TIRE",
+   "Mfr_ID": 18488,
+   "Mfr_Name": "7227477 CANADA LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "AUSTRALIA",
+   "Mfr_CommonName": "Nevco Engineering",
+   "Mfr_ID": 18489,
+   "Mfr_Name": "NEVCO ENGINEERING PTY LTD",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "INDONESIA",
+   "Mfr_CommonName": "PT. HA TIRE",
+   "Mfr_ID": 18490,
+   "Mfr_Name": "PT. HA TIRE",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18491,
+   "Mfr_Name": "SCO MOTOR CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18492,
+   "Mfr_Name": "SHANDONG LUISTONE WHEEL CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18493,
+   "Mfr_Name": "SHANGHAI DIYAN ELECTRONIC TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18494,
+   "Mfr_Name": "SHENZHEN LEMYTH TECHNOLOGY CO.,LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": "SMR Thailand",
+   "Mfr_ID": 18495,
+   "Mfr_Name": "SMR AUTOMOTIVE SYSTEM (THAILAND) LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18496,
+   "Mfr_Name": "YOKOHAMA TIRE MANUFACTURING (THAILAND) CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "PHILIPPINES",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18497,
+   "Mfr_Name": "YOKOHAMA TIRE PHILIPPINES INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18498,
+   "Mfr_Name": "ZHEJIANG JINFEI KAIDA WHEEL CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": "YUELING",
+   "Mfr_ID": 18499,
+   "Mfr_Name": "ZHEJIANG YUELING CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18500,
+   "Mfr_Name": "ZIBO HANDE INDUSTRIES CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18501,
+   "Mfr_Name": "JMC Inc.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18502,
+   "Mfr_Name": "Freight Solutions, RAC, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18503,
+   "Mfr_Name": "Aksarben Manufacturing LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18504,
+   "Mfr_Name": "Firetrucks Unlimited",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Happier Camper",
+   "Mfr_ID": 18505,
+   "Mfr_Name": "HAPPIER CAMPER, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18506,
+   "Mfr_Name": "Clek, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18507,
+   "Mfr_Name": "F&S Fabrication and Welding Solutions S.A de C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18508,
+   "Mfr_Name": "Innovative Excavation ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Burk's Best MFG LLC",
+   "Mfr_ID": 18509,
+   "Mfr_Name": "BURK'S BEST MFG LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18510,
+   "Mfr_Name": "VER-MAC INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18511,
+   "Mfr_Name": "MAKSIM KORCHAK",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18512,
+   "Mfr_Name": "Caretta, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18513,
+   "Mfr_Name": "TAILGATE POP UP, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Can-Am",
+   "Mfr_ID": 18514,
+   "Mfr_Name": "CAN-AM CUSTOM TRUCKS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 18515,
+   "Mfr_Name": "CLASSIC WEST TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  }
+ ]
+}

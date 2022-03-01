@@ -1,0 +1,770 @@
+{
+ "Count": 100,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Trelleborg",
+   "Mfr_ID": 14382,
+   "Mfr_Name": "TRELLEBORG WHEEL SYSTEMS AMERICAS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14383,
+   "Mfr_Name": "OSRAM SYLVANIA, INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14385,
+   "Mfr_Name": "Conectores, Flexibles Automotrices, SA. de C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14386,
+   "Mfr_Name": "Flexitech Do Brasil Industria e Comerio de Mangueiras de Freios Ltda",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "HUNGARY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14387,
+   "Mfr_Name": "Hankook Tire Hungary Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14388,
+   "Mfr_Name": "GINOVE, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14389,
+   "Mfr_Name": "Precisions Provencal Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14390,
+   "Mfr_Name": "INPAK VEHICLES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14391,
+   "Mfr_Name": "Kirsch Kunststofftechnik GmbH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14392,
+   "Mfr_Name": "HYFLEX ASSEMBLIES LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14393,
+   "Mfr_Name": "Jiangsu FuAo Mould Plastic Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14394,
+   "Mfr_Name": "Zhucheng Guoxin Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14395,
+   "Mfr_Name": "SAILUN GROUP CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14396,
+   "Mfr_Name": "The Liberty Motor Co., Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14397,
+   "Mfr_Name": "ZHEJIANG LEGEND ELECTRIC VEHICLE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14398,
+   "Mfr_Name": "Ironhead Rubber Technologies",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14399,
+   "Mfr_Name": "Roadtrek Motorhomes Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14400,
+   "Mfr_Name": "Schefer Comercio Internacional",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14401,
+   "Mfr_Name": "JK Tyre & Industries Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14402,
+   "Mfr_Name": "DESERT HOSE & SUPPLY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14403,
+   "Mfr_Name": "ABC HYDRAULICS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14404,
+   "Mfr_Name": "KENSWELL TUBE FORMING",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14405,
+   "Mfr_Name": "G-TECH CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "COLOMBIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14406,
+   "Mfr_Name": "Agudelo S.J Ingenieria",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "PAKISTAN ",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14407,
+   "Mfr_Name": "Service Industries Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "AUSTRALIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14408,
+   "Mfr_Name": "KIMBERLEY KAMPERS MANUFACTURING PTY. LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14409,
+   "Mfr_Name": "Shandong Jinwangda Tire Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED KINGDOM (UK)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14410,
+   "Mfr_Name": "Geotek Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14411,
+   "Mfr_Name": "SHANGHAI NICHIRIN AUTOMOBILE ACCESSORIES CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "VIETNAM",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14412,
+   "Mfr_Name": "Nichirin Vietnam Company Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14413,
+   "Mfr_Name": "QINGDAO SUNSONG CO LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "Daimler AG",
+   "Mfr_ID": 14414,
+   "Mfr_Name": "DAIMLER AG -- VAN DIVISION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14415,
+   "Mfr_Name": "NICHIRIN RUBBER (SHANGHAI) CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14416,
+   "Mfr_Name": "Michelin India TamilNadu Tyres PVT. Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14417,
+   "Mfr_Name": "Rechapage Belisle Quebec Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14418,
+   "Mfr_Name": "Corporation Micro Bird Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14419,
+   "Mfr_Name": "Qingdao Odyking Tyre Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "AERO MOTORS",
+   "Mfr_ID": 14420,
+   "Mfr_Name": "LEGEND-WIDE TECHNOLOGY INC. D/B/A AERO MOTORS GROUP ( AMG )",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14421,
+   "Mfr_Name": "TUFF BUILT PRODUCTS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14422,
+   "Mfr_Name": "Colun Vehicles Corp",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14423,
+   "Mfr_Name": "Bremach Industrie S.r.l.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14424,
+   "Mfr_Name": "ANSOR SPA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "RUSSIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14425,
+   "Mfr_Name": "\"ZMA\" Inc. (Russia)",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "RUSSIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14426,
+   "Mfr_Name": "PJSC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14427,
+   "Mfr_Name": "VOSLA GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14428,
+   "Mfr_Name": "Oriental Export Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14429,
+   "Mfr_Name": "Vyrus Divisione Motori SRL",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": "MCI",
+   "Mfr_ID": 14430,
+   "Mfr_Name": "MOTOR COACH INDUSTRIES LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14431,
+   "Mfr_Name": "Taizhou Xinli Machinery Manufacturing Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14432,
+   "Mfr_Name": "Guangdong Dafu Motorcycle Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14433,
+   "Mfr_Name": "Zhejiang Taifa Machinery & Electronics Industrial Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14434,
+   "Mfr_Name": "LONCIN GROUP IMPORT & EXPORT CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SLOVAKIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14435,
+   "Mfr_Name": "Glass Industry s.r.o.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14436,
+   "Mfr_Name": "Ace Performance Parts",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14437,
+   "Mfr_Name": "Laiwu Sunshine Tyre Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14438,
+   "Mfr_Name": "Weifang Huantai Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14439,
+   "Mfr_Name": "Nexen Tire Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14440,
+   "Mfr_Name": "Qingdao Nexen Tire Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDONESIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14441,
+   "Mfr_Name": "PT. Nichirin Indonesia",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14442,
+   "Mfr_Name": "Nichirin Coupler Tec Mexico S.A. De C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14443,
+   "Mfr_Name": "Hebei Zhongxing Automobile Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "RUSSIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14444,
+   "Mfr_Name": "Petroshina Joint-stock Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14446,
+   "Mfr_Name": "TOYAMA TYRE CORP., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14447,
+   "Mfr_Name": "TEXAS WIDE WELDING & SERVICES, LLC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14449,
+   "Mfr_Name": "Northwest Glass Products Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14450,
+   "Mfr_Name": "CANADIAN TREADS CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14451,
+   "Mfr_Name": "OLYMPIC TRAILERES & TRUCKBEDS, SA DE CV",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "ISRAEL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14453,
+   "Mfr_Name": "ORAN SAFETY GLASS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14454,
+   "Mfr_Name": "TRIGO SELECT PREFABRICADOS S. DE R.L. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14455,
+   "Mfr_Name": "OXYGEN S.P.A",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14456,
+   "Mfr_Name": "WULIAN SENLONG RUBBER CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14457,
+   "Mfr_Name": "SHANGHAI HONGLI METAL MATERIAL CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "JAPAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14458,
+   "Mfr_Name": "Panasonic Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "FINLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14459,
+   "Mfr_Name": "VALMET AUTOMOTIVE INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14460,
+   "Mfr_Name": "EvoBus GmbH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14461,
+   "Mfr_Name": "Tolins Tyres PVT. LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14462,
+   "Mfr_Name": "PIAGGIO & C.S.P.A.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "SPAIN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14463,
+   "Mfr_Name": "NACIONAL MOTOR S.A.U.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Maxion Wheels ",
+   "Mfr_ID": 14464,
+   "Mfr_Name": "MAXION WHEELS USA LLC ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14465,
+   "Mfr_Name": "PILKINGTON AUTOMOTIVE INDIA PRIVATE LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14466,
+   "Mfr_Name": "SHANDONG ANXING GLASS PRODUCTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14467,
+   "Mfr_Name": "Pirelli Neumaticos S.A. de C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "POLAND",
+   "Mfr_CommonName": "Vitro",
+   "Mfr_ID": 14468,
+   "Mfr_Name": "VITRO, S.A.B. DE C.V. (Poland)",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ISRAEL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14469,
+   "Mfr_Name": "PLAZIT 2001",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14470,
+   "Mfr_Name": "DeMonte Fabricating Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14471,
+   "Mfr_Name": "I-Greatest Rubber Ind. Co. Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14472,
+   "Mfr_Name": "Green.Tec Electric Technology Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "HONG KONG",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14473,
+   "Mfr_Name": "CYBEX Industrial Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14474,
+   "Mfr_Name": "BIG LOWBOY S DE RL DE CV",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14475,
+   "Mfr_Name": "Teschner Motorhome Manufacture",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED KINGDOM (UK)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14476,
+   "Mfr_Name": "DYMAG RACING UK LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14477,
+   "Mfr_Name": "Faw Bus and Coach (WUXI) Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14478,
+   "Mfr_Name": "Tema Plast S.R.L.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14479,
+   "Mfr_Name": "AD Motors Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14480,
+   "Mfr_Name": "Castrol India Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ENGLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14481,
+   "Mfr_Name": "Maico International",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "LUXEMBOURG",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14482,
+   "Mfr_Name": "IEE S.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14483,
+   "Mfr_Name": "Guidosimplex SRL",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14484,
+   "Mfr_Name": "HOSE & RUBBER PRODUCTS, INC ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14485,
+   "Mfr_Name": "MOGI MFG",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  }
+ ]
+}

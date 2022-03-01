@@ -1,0 +1,764 @@
+{
+ "Count": 98,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14276,
+   "Mfr_Name": "HNY Tires Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14277,
+   "Mfr_Name": "Changzhou Lanling Special Automobile Manufacturing Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14278,
+   "Mfr_Name": "Wendeng Sanjing Chemistry Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14279,
+   "Mfr_Name": "Fullchamp Technologies Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14280,
+   "Mfr_Name": "TRANFERENCIA DE FLUIDOS MEXICO S.A. DE C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14281,
+   "Mfr_Name": "Hecheng Vehicle Parts (Taicang) Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": "Hyundai",
+   "Mfr_ID": 14282,
+   "Mfr_Name": "HYUNDAI DE MEXICO, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14283,
+   "Mfr_Name": "SILVERSTONE INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14284,
+   "Mfr_Name": "Autotanques Y Tolvas Troy, S.A. de C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14285,
+   "Mfr_Name": "Great Lakes Recreational Vehicles",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14286,
+   "Mfr_Name": "PROFAB MEX SA. DE CV.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14287,
+   "Mfr_Name": "Zhengzhou Fuyao Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14288,
+   "Mfr_Name": "Longkou Xingmin Safety Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14289,
+   "Mfr_Name": "Changzhou Aierfa Vehicle Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14290,
+   "Mfr_Name": "HUBEI MINGXING GLASS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14291,
+   "Mfr_Name": "ABG FABRICATION LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14292,
+   "Mfr_Name": "Sacilese Industriale Vetraria SpA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "POLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14293,
+   "Mfr_Name": "Nordglass II Sp. z O.O.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14294,
+   "Mfr_Name": "Wendengshi Mingchi Safety Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14295,
+   "Mfr_Name": "Chonche Group Nanjing 7425 Factory",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14296,
+   "Mfr_Name": "JAWOOPLATECH CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14297,
+   "Mfr_Name": "FUJIAN GUANGHUA GLASS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14298,
+   "Mfr_Name": "Henan Yahua Safety Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14299,
+   "Mfr_Name": "FUJIAN LAIKE PETROCHEMICAL CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14300,
+   "Mfr_Name": "Huizhoushi Dade Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14301,
+   "Mfr_Name": "Malo S.p.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14302,
+   "Mfr_Name": "Guangzhou Fuyao Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "IRELAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14303,
+   "Mfr_Name": "RJC GLASS LIMITED-TOUGHGLASS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14304,
+   "Mfr_Name": "A.R.C. INDUSTRIES INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ENGLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14305,
+   "Mfr_Name": "Hiflex Fluidtechnik Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHILE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14306,
+   "Mfr_Name": "Industria Nacional De Parabrisas Laminados S.A.I.C.  -- Inapal",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14307,
+   "Mfr_Name": "Korea Autoglass Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14308,
+   "Mfr_Name": "Guangzhou Dongxu Automobile Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14309,
+   "Mfr_Name": "KYUMG SEONG TEMPERED GLASS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14311,
+   "Mfr_Name": "HANKUK SEKURIT LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14312,
+   "Mfr_Name": "Wuhan Yaohua Pilkington Safety Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14313,
+   "Mfr_Name": "Vetro Sud SRL",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14314,
+   "Mfr_Name": "TRQSS, Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14315,
+   "Mfr_Name": "Active-Cycles (China) Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14316,
+   "Mfr_Name": "Lien T'ung P&F Co. Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "FRANCE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14317,
+   "Mfr_Name": "Prevent Glass S.A.S.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14318,
+   "Mfr_Name": "PRUITT EQUIPMENT LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14319,
+   "Mfr_Name": "teutonia Kinderwagenfabrik GmbH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14320,
+   "Mfr_Name": "Ningbo Saiting Electric Bicycle Science & Technology Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14321,
+   "Mfr_Name": "LEXANI MOTORCARS ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UKRAINE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14322,
+   "Mfr_Name": "Dneproshina JSC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "NORWAY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14323,
+   "Mfr_Name": "Autosock AS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14324,
+   "Mfr_Name": "Sumitomo Rubber do Brasil Ltda.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14325,
+   "Mfr_Name": "SUMITOMO RUBBER (HUNAN) CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14326,
+   "Mfr_Name": "Sumitomo Rubber (Thailand) Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14327,
+   "Mfr_Name": "Cheng Shin Tire & Rubber (Chongqing) Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14328,
+   "Mfr_Name": "Trinity Industries de Mexico, S. de R.L. de C.V. L. de C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14330,
+   "Mfr_Name": "RIZHAO XURI AUTO PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Rokon",
+   "Mfr_ID": 14333,
+   "Mfr_Name": "ROKON INTERNATIONAL, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14337,
+   "Mfr_Name": "THAI HONDA MANUFACTURING CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14338,
+   "Mfr_Name": "American Glass Products Do Brasil Ltda.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14340,
+   "Mfr_Name": "D/B/A TRACTOREMOLQUES Y ADAPTACIONES, SA DE CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14341,
+   "Mfr_Name": "MC GUBER",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14342,
+   "Mfr_Name": "Techking Tires Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14343,
+   "Mfr_Name": "ChongQing Kaler Motorcycle Mfg Company Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14344,
+   "Mfr_Name": "Chongqing Weixing Rubber Industry Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14345,
+   "Mfr_Name": "ACME RUBBER IND. CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14346,
+   "Mfr_Name": "LONGKOU CITY LONGFA INDUSTRY AND TRADE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14347,
+   "Mfr_Name": "TRANSKIA CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14348,
+   "Mfr_Name": "POLYHOSE INDIA PVT. LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14349,
+   "Mfr_Name": "Reifenwerk Heidenau GmbH & Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14350,
+   "Mfr_Name": "SEYEN HEAVY INDUSTRIES (SHANGHAI) CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": "Apollo Tyres",
+   "Mfr_ID": 14351,
+   "Mfr_Name": "APOLLO TYRES LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14352,
+   "Mfr_Name": "MANIOBRAS EQUIPOS Y CONSTRUCCIONES DE TAMAULIPAS, S.A. DE C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14353,
+   "Mfr_Name": "Gemolques Tavasci/Gerardo Roberto Tavasci Interian",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14354,
+   "Mfr_Name": "UNICAPE AUTO PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SPAIN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14355,
+   "Mfr_Name": "Gas Gas Motos, S.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14356,
+   "Mfr_Name": "TECGLASS INDUSTRIA E COMERCIO DE VIDROS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14357,
+   "Mfr_Name": "GUANGZHOU CHIMING ELECTRONIC TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "URUGUAY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14358,
+   "Mfr_Name": "Serisur S.A. Tire Restreading",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "JAPAN",
+   "Mfr_CommonName": "TOYOTA",
+   "Mfr_ID": 14359,
+   "Mfr_Name": "TOYOTA INDUSTRIES CORPORATION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14360,
+   "Mfr_Name": "SENTAIDA GROUP CO.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14361,
+   "Mfr_Name": "Ningbo Globalkids Baby Products Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14362,
+   "Mfr_Name": "Zhejiang Jiali Industry Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14363,
+   "Mfr_Name": "Twinglass Vidros Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14364,
+   "Mfr_Name": "IMPACT SAFETY GLASS WORKS PVT. LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14365,
+   "Mfr_Name": "Xuchang Huanyu Safety Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14366,
+   "Mfr_Name": "Lung Ming Li Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14367,
+   "Mfr_Name": "COX FABRICATION, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14368,
+   "Mfr_Name": "Han Duck Tempered Glass Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14369,
+   "Mfr_Name": "Heshan Zhengda Auto Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14370,
+   "Mfr_Name": "Zhangjiagang City Muden Automobile Accessory Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "JAPAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14371,
+   "Mfr_Name": "Daikyo Nishikawa Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14372,
+   "Mfr_Name": "Tempersinos Industria E Comercio De Vidros Ltda",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14373,
+   "Mfr_Name": "Brightpower Optoelectronic Technology Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14374,
+   "Mfr_Name": "Rainbow Trust Industrial Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14375,
+   "Mfr_Name": "Jiaozuo Xunfan Specical Glass Factory",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14376,
+   "Mfr_Name": "Xuchang Fuhua Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "VENEZUELA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14377,
+   "Mfr_Name": "Plavica Ven, C.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED KINGDOM (UK)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14378,
+   "Mfr_Name": "MIGLASS LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14379,
+   "Mfr_Name": "AUTOMOBILI LAMBORGHINI SPA",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "VIETNAM",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14380,
+   "Mfr_Name": "DANANG RUBBER JOINT STOCK COMPANY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14381,
+   "Mfr_Name": "FRARY TRANSPORT SERVICES INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  }
+ ]
+}

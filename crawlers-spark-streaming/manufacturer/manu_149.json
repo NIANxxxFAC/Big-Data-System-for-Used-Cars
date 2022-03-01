@@ -1,0 +1,811 @@
+{
+ "Count": 98,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16100,
+   "Mfr_Name": "JHC NEW ENERGY VEHICLE HONGKONG CO.,LTD",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "CZECH REPUBLIC",
+   "Mfr_CommonName": "Maxion Wheels",
+   "Mfr_ID": 16101,
+   "Mfr_Name": "MAXION WHEELS CZECH S.R.O.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16102,
+   "Mfr_Name": "PHOTUM SMART LIGHTING (ZHUHAI) LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16103,
+   "Mfr_Name": "A Bar K Trailers",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16104,
+   "Mfr_Name": "Clint R Woods Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16105,
+   "Mfr_Name": "Ashford Manufacturing Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16106,
+   "Mfr_Name": "Asphalt Machinery Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16107,
+   "Mfr_Name": "Anaheim Welding and Fabrication",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16108,
+   "Mfr_Name": "Ace Welding Co. ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16109,
+   "Mfr_Name": "Kalyn Siebert Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16110,
+   "Mfr_Name": "BILDON, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16111,
+   "Mfr_Name": "AGRATI-GARELLI CORP OF AMERICA ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16112,
+   "Mfr_Name": "CALIFORNIA SIDECAR INC ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16113,
+   "Mfr_Name": "ALLEN MANUFACTURING SYSTEMS INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16114,
+   "Mfr_Name": "ART ROLL TECH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16115,
+   "Mfr_Name": "FRISBIE CONSTRUCTION CO INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16116,
+   "Mfr_Name": "Gaitway Trailer Company ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16117,
+   "Mfr_Name": "Garneau's Garage, Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16118,
+   "Mfr_Name": "GETTIG TECHNOLOGIES LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16119,
+   "Mfr_Name": "Arai Shoji Co., Ltd. (Michigan location)",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16120,
+   "Mfr_Name": "GMA PANACHE CO. ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16121,
+   "Mfr_Name": "Go-Tag-A-Long ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16122,
+   "Mfr_Name": "KNIGHT FABRICATING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16123,
+   "Mfr_Name": "GOLDEN AGE AUTO CORP",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "D.T. Hudson, LLC",
+   "Mfr_ID": 16124,
+   "Mfr_Name": "DAN HUDSON",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16125,
+   "Mfr_Name": "ADAMSON TRAILER MANUFACTURING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "G4U",
+   "Mfr_ID": 16126,
+   "Mfr_Name": "GREEN 4 U INC. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16127,
+   "Mfr_Name": "MORIN DIESEL LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16128,
+   "Mfr_Name": "TRIPLE G GROUP LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16129,
+   "Mfr_Name": "GOOSENECK TRAILER MFG. CO, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16130,
+   "Mfr_Name": "Griffin Trailer Sales",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16131,
+   "Mfr_Name": "Grigsby Trailer & Metal Work Co",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16132,
+   "Mfr_Name": "ELLIS TRAILERS ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16133,
+   "Mfr_Name": "HH Modern Products ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16134,
+   "Mfr_Name": "H & W Trailer Works Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16135,
+   "Mfr_Name": "Harry Hall Body Shop, Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16136,
+   "Mfr_Name": "Hamner Welding Co",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": "CHUMMY",
+   "Mfr_ID": 16137,
+   "Mfr_Name": "CHUMMY VEHICLE PARTS INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16138,
+   "Mfr_Name": "Hampton Homes Corp",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16139,
+   "Mfr_Name": "Harnischfeger Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16140,
+   "Mfr_Name": "Haul-Rite Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Phoenix",
+   "Mfr_ID": 16141,
+   "Mfr_Name": "PHOENIX CARS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "FINLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16142,
+   "Mfr_Name": "HELLA LIGHTING FINLAND OY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CZECH REPUBLIC",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16143,
+   "Mfr_Name": "HELLA AUTOTECHNIK NOVA, S.R.O.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16144,
+   "Mfr_Name": "DOOLEY TACKABERRY INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16145,
+   "Mfr_Name": "Hawkeye Eagle Transportation Equipment Co. Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16146,
+   "Mfr_Name": "Holtkamp Company ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16147,
+   "Mfr_Name": "SAWCO INDUSTRIES ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16148,
+   "Mfr_Name": "Hewitt Tubular Products Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16149,
+   "Mfr_Name": "Hoedebeck Brothers Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16150,
+   "Mfr_Name": "Houston Marine Containers Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16151,
+   "Mfr_Name": "Hydralift Corporation ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16152,
+   "Mfr_Name": "422 Marine Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16153,
+   "Mfr_Name": "I Haul Trailers Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16154,
+   "Mfr_Name": "Hutchins Company, Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16155,
+   "Mfr_Name": "I R Witzer Co. of Florida Inc ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "None",
+   "Mfr_ID": 16156,
+   "Mfr_Name": "AMERICAN IRON CO",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16157,
+   "Mfr_Name": "17 CREEK ENTERPRISES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "SUPERIOR HANDLING",
+   "Mfr_ID": 16158,
+   "Mfr_Name": "SUPERIOR HANDLING EQUIPMENT, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16159,
+   "Mfr_Name": "Ideal Welding Co Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16160,
+   "Mfr_Name": "ILAUG PRODUCTS INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16161,
+   "Mfr_Name": "INDUSTRIAL POWER PRODUCTS ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16162,
+   "Mfr_Name": "ROGUE ENTERPRISE LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16163,
+   "Mfr_Name": "INTERMOUNTAIN FIBERGLASS MFG INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TURKEY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16164,
+   "Mfr_Name": "FERCAM CAM SANAYI TICARET LIMITED SIRKETI",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16165,
+   "Mfr_Name": "International Harvester Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16166,
+   "Mfr_Name": "Reflex & Allen Do Brasil Automotiva Ltda.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16167,
+   "Mfr_Name": "KERBY BROTHERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16168,
+   "Mfr_Name": "International Tank & Trailer Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16169,
+   "Mfr_Name": "International Trailer Corporation ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16170,
+   "Mfr_Name": "KARI-KOOL ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16171,
+   "Mfr_Name": "Kassbohrer Fahrzeugwerke Gmbh",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16172,
+   "Mfr_Name": "KAST-RITE SILOS INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16173,
+   "Mfr_Name": "ZHONGSHAN EASTAR OPTOELECTRONIC TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16174,
+   "Mfr_Name": "INTERSTATE SUPPLY CO INC ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16175,
+   "Mfr_Name": "IRBY CONSTRUCTION CO",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Iveco",
+   "Mfr_ID": 16176,
+   "Mfr_Name": "IVECO TRUCKS OF NORTH AMERICAN, INC ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16177,
+   "Mfr_Name": "GRAND COACH, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16178,
+   "Mfr_Name": "J & C Manufacturing Inc ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16179,
+   "Mfr_Name": "J Bar S Manufacturing ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16180,
+   "Mfr_Name": "Jammer Cycle Products, Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16181,
+   "Mfr_Name": "Jantz-Femco",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16182,
+   "Mfr_Name": "J D Bertolini Industries Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16183,
+   "Mfr_Name": "JEFFERY BROTHERS ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16184,
+   "Mfr_Name": "HARVINDER THIND",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16185,
+   "Mfr_Name": "FLEX FLUID POWER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16186,
+   "Mfr_Name": "John Fruetel Enterprises Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16187,
+   "Mfr_Name": "Juno Industries Incorporated",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16188,
+   "Mfr_Name": "Westline Manufacturing Inc",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16189,
+   "Mfr_Name": "Fairview Fittings & Manufacturing Incorporated",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16190,
+   "Mfr_Name": "Wurst Machine And Welding",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "NEW ZEALAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16191,
+   "Mfr_Name": "STEELBRO CONTAINER HANDLING SOLUTIONS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16192,
+   "Mfr_Name": "WCW Walklate",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16193,
+   "Mfr_Name": "DPL Eurostyle Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16194,
+   "Mfr_Name": "ACV INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16195,
+   "Mfr_Name": "Simpson Diversified Metal Products",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16196,
+   "Mfr_Name": "AMERICAN MOTOR OF CANADA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16197,
+   "Mfr_Name": "Evans Automobile Manufacturers",
+   "VehicleTypes": []
+  }
+ ]
+}

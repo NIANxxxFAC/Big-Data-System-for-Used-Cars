@@ -1,0 +1,865 @@
+{
+ "Count": 79,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "HUNGARY",
+   "Mfr_CommonName": "GE",
+   "Mfr_ID": 16287,
+   "Mfr_Name": "GE HUNGARY IPARI \u00c9S KERESKEDELMI KORL\u00c1TOLT FELELOSS\u00c9GU T\u00c1RSAS\u00c1G",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "HUNGARY",
+   "Mfr_CommonName": "SMR Hungary",
+   "Mfr_ID": 16288,
+   "Mfr_Name": "SMR AUTOMOTIVE MANUFACTURING HUNGARY BT",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16289,
+   "Mfr_Name": "TRW AUTOMOTIVE GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16290,
+   "Mfr_Name": "LOMBRA DE GUADALAJARA SA DE CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16291,
+   "Mfr_Name": "BANDAREY SA DE CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16292,
+   "Mfr_Name": "TRW VEHICLE SAFETY SYSTEMS DE MEXICO, S. DE R.L. DE C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED KINGDOM (UK)",
+   "Mfr_CommonName": "LIBERTY VEHICLE TECHNOLOGIES",
+   "Mfr_ID": 16293,
+   "Mfr_Name": "LIBERTY VEHICLE TECHNOLOGIES LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CZECH REPUBLIC",
+   "Mfr_CommonName": "ZF",
+   "Mfr_ID": 16294,
+   "Mfr_Name": "ZF PASSIVE SAFETY CZECH S.R.O.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "POLAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16295,
+   "Mfr_Name": "TRW POLSKA SP. Z O.O.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16296,
+   "Mfr_Name": "American Truck & Trailer, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16297,
+   "Mfr_Name": "B&A TRAILERS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16298,
+   "Mfr_Name": "XTREME OUTDOORS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Central Hydraulics",
+   "Mfr_ID": 16299,
+   "Mfr_Name": "CENTRAL HYDRAULICS HOSE AND ACCESSORIES",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": "GM",
+   "Mfr_ID": 16300,
+   "Mfr_Name": "SHANGHAI GENERAL MOTORS CORP LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Hometown Trolley ",
+   "Mfr_ID": 16301,
+   "Mfr_Name": "DOUBLE K, INC. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16302,
+   "Mfr_Name": "CORRECT CRAFT INC ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16303,
+   "Mfr_Name": "ICON CUSTOMS LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16304,
+   "Mfr_Name": "MVM7",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16305,
+   "Mfr_Name": "REPPERTS CYCLE SHOP",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16306,
+   "Mfr_Name": "JIANGMEN SHILIDUO AUTO PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": "Varroc",
+   "Mfr_ID": 16307,
+   "Mfr_Name": "VARROC LIGHTING SYSTEMS S DE RL DE CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16308,
+   "Mfr_Name": "JIAXING HELLA LIGHTING CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SLOVENIA",
+   "Mfr_CommonName": "odelo",
+   "Mfr_ID": 16309,
+   "Mfr_Name": "ODELO SLOVENIJA D.O.O.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "odelo",
+   "Mfr_ID": 16310,
+   "Mfr_Name": "ODELO DEUTSCHLAND GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "AspireTec",
+   "Mfr_ID": 16311,
+   "Mfr_Name": "ASPIRETEC, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "FAB",
+   "Mfr_ID": 16312,
+   "Mfr_Name": "FAIRVIEW AUTOMATED BURNOUTS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16313,
+   "Mfr_Name": "Hella Bhap(Sanhe) automotive Lighting Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16314,
+   "Mfr_Name": "OW EXCEL OILFIELD EQUIPMENTS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16315,
+   "Mfr_Name": "BLACKWATER FLEET SERVICES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16317,
+   "Mfr_Name": "Shandong Zhengshun Wheels Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16318,
+   "Mfr_Name": "CARY CART COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": "TORNEL, JK TYRE, VIKRANT, JKTORNEL",
+   "Mfr_ID": 16319,
+   "Mfr_Name": "COMPA\u00d1IA HULERA TORNEL, S.A. DE C.V.        ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "AUSTRIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16320,
+   "Mfr_Name": "HELLA FAHRZEUGTEILE AUSTRIA GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "OUTBACK CUSTOMS",
+   "Mfr_ID": 16321,
+   "Mfr_Name": "OUTBACK CUSTOMS,LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16322,
+   "Mfr_Name": "OCTANE TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16323,
+   "Mfr_Name": "VENDWORKS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16324,
+   "Mfr_Name": "BUILT BY KRAMER BBK LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Ayro",
+   "Mfr_ID": 16325,
+   "Mfr_Name": "AYRO, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16326,
+   "Mfr_Name": "HUGHES & HOWARD ENGINEERING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16327,
+   "Mfr_Name": "CROSSROADS MANUFACTURING, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16328,
+   "Mfr_Name": "JOHNS GOLF CARS INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Ernest Spencer",
+   "Mfr_ID": 16329,
+   "Mfr_Name": "ERNEST SPENCER METALS INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16330,
+   "Mfr_Name": "Cal Central Catering Trailers",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16331,
+   "Mfr_Name": "Tiny Homes of Oklahoma",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16332,
+   "Mfr_Name": "SOUTHERN OHIO EQUIPMENT COMPANY LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Off Road Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16333,
+   "Mfr_Name": "QUALITY MANUFACTURING SERVICE",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16334,
+   "Mfr_Name": "HUNTER TIRES INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ROMANIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16335,
+   "Mfr_Name": "S.C. Hella Romania S.R.L.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16336,
+   "Mfr_Name": "UTILITIES EQUIPMENT CO., INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Brownell",
+   "Mfr_ID": 16337,
+   "Mfr_Name": "BROWNELL BOAT TRAILERS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16338,
+   "Mfr_Name": "AZTEC MACHINE & REPAIR, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16339,
+   "Mfr_Name": "TUFF BOY SALES INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16340,
+   "Mfr_Name": "CRANES & MATERIAL HANDLING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16341,
+   "Mfr_Name": "WIN TEAM CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16342,
+   "Mfr_Name": "AIRBOAT STUFF LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16343,
+   "Mfr_Name": "RICE WELDING ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "C&C Mfg",
+   "Mfr_ID": 16344,
+   "Mfr_Name": "C & C MANUFACTURING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16345,
+   "Mfr_Name": "ADVENTURE RENTALS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16346,
+   "Mfr_Name": "PURDY ADVENTURE TEARDROP TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16347,
+   "Mfr_Name": "HOSE & HYDRAULICS, INC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16348,
+   "Mfr_Name": "BRIDGESTONE HOSE POWER",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16349,
+   "Mfr_Name": "LIFE TINY HOUSE COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "DIAMOND, DCI",
+   "Mfr_ID": 16350,
+   "Mfr_Name": "DIAMOND COMPONENTS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16351,
+   "Mfr_Name": "BEAR METAL WELDING & FABRICATION, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16352,
+   "Mfr_Name": "DAIRY SYSTEMS INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "ENOVEN",
+   "Mfr_ID": 16353,
+   "Mfr_Name": "ENOVEN OF REDDING, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "ENOVEN",
+   "Mfr_ID": 16354,
+   "Mfr_Name": "ENOVEN INDUSTRIES, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "GFA",
+   "Mfr_ID": 16355,
+   "Mfr_Name": "GFA TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "NAPA",
+   "Mfr_ID": 16356,
+   "Mfr_Name": "NAPA AUTO PARTS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16357,
+   "Mfr_Name": "LEGEND MANUFACTURING LLC  ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16358,
+   "Mfr_Name": "Power Systems, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TURKEY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16359,
+   "Mfr_Name": "DOKTOR VIP OTOMOTIV TASARIM DIS TICARET LTD. STI",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 16360,
+   "Mfr_Name": "MUSKOKA TRAILER MANUFACTURING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "SPAIN",
+   "Mfr_CommonName": "Intier",
+   "Mfr_ID": 16361,
+   "Mfr_Name": "INTIER AUTOMOTIVE INTERIORS ZIPPEX,S.A",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": "Huayi",
+   "Mfr_ID": 16362,
+   "Mfr_Name": "HUAYI GROUP (THAILAND) COMPANY LIMITED           ",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "MAGNA",
+   "Mfr_ID": 16363,
+   "Mfr_Name": "MAGNA MIRRORS SCHLEIZ GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "MAGNA",
+   "Mfr_ID": 16364,
+   "Mfr_Name": "MAGNA SPIEGELSYSTEME GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SPAIN",
+   "Mfr_CommonName": "Magna",
+   "Mfr_ID": 16365,
+   "Mfr_Name": "MAGNA MIRRORS ESPA\u00d1A, S.A",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": "HENKO",
+   "Mfr_ID": 16366,
+   "Mfr_Name": "JIAXING HENKO AUTO SPARE PARTS CO., LTD",
+   "VehicleTypes": []
+  }
+ ]
+}

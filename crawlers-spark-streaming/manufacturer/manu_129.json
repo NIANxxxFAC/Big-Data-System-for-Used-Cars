@@ -1,0 +1,849 @@
+{
+ "Count": 96,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14177,
+   "Mfr_Name": "QINGDAO YUANDA TYRE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14178,
+   "Mfr_Name": "Asphalt Zipper Inc.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14179,
+   "Mfr_Name": "SHANDONG WANDABOTO TYRE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "W D WILSON FABRICATION",
+   "Mfr_ID": 14180,
+   "Mfr_Name": "W.D.WILSON INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14181,
+   "Mfr_Name": "SCOTT HOLLINGSWORTH EQUIPMENT, CO",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14182,
+   "Mfr_Name": "LCL Truck Equipment, Inc.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14183,
+   "Mfr_Name": "Chongqing Hankook Tire Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDONESIA",
+   "Mfr_CommonName": "Hankook",
+   "Mfr_ID": 14184,
+   "Mfr_Name": "PT. HANKOOK TIRE INDONESIA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "Daimler",
+   "Mfr_ID": 14185,
+   "Mfr_Name": "DAIMLER AG -- SMART CAR DIVISION",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED KINGDOM (UK)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14186,
+   "Mfr_Name": "NORTON MOTORCYCLES UK LTD",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14187,
+   "Mfr_Name": "SONAR AUTO PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14188,
+   "Mfr_Name": "BRIDGESTONE (HUIZHOU) TIRE COMPANY, LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14189,
+   "Mfr_Name": "Bridgestone India Private Limited, Pune plant",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": "CHRYSLER",
+   "Mfr_ID": 14190,
+   "Mfr_Name": "DAIMLER CHRYSLER DE MEXICO SA DE CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "VIETNAM",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14191,
+   "Mfr_Name": "Bridgestone Tire Manufacturing Vietnam LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14192,
+   "Mfr_Name": "MCD MANUFACTURING & REPAIR, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "SPAIN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14193,
+   "Mfr_Name": "TI GROUP AUTOMOTIVE SYSTEMS S.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14194,
+   "Mfr_Name": "Pulsar Hydraulics Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14195,
+   "Mfr_Name": "Shanghai Yikin Helmets Manufacture Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14196,
+   "Mfr_Name": "Changzhou Greenland Vehicle Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14197,
+   "Mfr_Name": "HWASEUNG R&A CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14198,
+   "Mfr_Name": "Techno Innovative Rubber Enterprise Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14199,
+   "Mfr_Name": "ALEX GLOBAL AEROSPACE TECHNOLOGY INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SWEDEN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14200,
+   "Mfr_Name": "TI GROUP AUTOMOTIVE SYSTEMS AB",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14201,
+   "Mfr_Name": "TRAYLORCO",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14202,
+   "Mfr_Name": "PIERPONT ENERGY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "BOLIVIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14203,
+   "Mfr_Name": "Favilam Bolivia SRL",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14204,
+   "Mfr_Name": "TIANJIN HONGDE AUTO GLASS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BELARUS",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14206,
+   "Mfr_Name": "Belshina",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14207,
+   "Mfr_Name": "Chinnaraje Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14208,
+   "Mfr_Name": "P. Moetefindt Fahrzeugbau GmbH & Co. KG",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14209,
+   "Mfr_Name": "SILOS Y TANQUES GONZALEZ, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14210,
+   "Mfr_Name": "TANQUES Y REMOLQUES SOL, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14211,
+   "Mfr_Name": "PRODUCTOS Y SERVICIOS REGGER, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "MOTO1",
+   "Mfr_ID": 14212,
+   "Mfr_Name": "BIMOTA SPIRIT LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Pothole Patrol",
+   "Mfr_ID": 14213,
+   "Mfr_Name": "APPLIQUE TECHNOLOGIES INTERNATIONAL, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14214,
+   "Mfr_Name": "TANQUES Y REMOLQUES SILMEX, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14215,
+   "Mfr_Name": "BOB KING'S TRUCK BEDS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "JAPAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14216,
+   "Mfr_Name": "Tokai Rubber Industries, Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14217,
+   "Mfr_Name": "DAIMLER AG - PROGRAMM-MANAGEMENT MAYBACH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14218,
+   "Mfr_Name": "NORMEN IND. E COM DE CONEXOES E MANGUEIRAS LTDA.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Happy Valley",
+   "Mfr_ID": 14219,
+   "Mfr_Name": "HAPPY VALLEY CAMPERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14220,
+   "Mfr_Name": "DANYANG JINCHENG ACCES. CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14221,
+   "Mfr_Name": "USUAL CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14222,
+   "Mfr_Name": "TRUCK EQUIPMENT ENTERPRISES, L.L.C.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14223,
+   "Mfr_Name": "BUNDY FLUID SYSTEMS CO LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14224,
+   "Mfr_Name": "R&K PUMP & EQUIPMENT, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14225,
+   "Mfr_Name": "ATLAS PRECISION / PRO MAGNUM",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14226,
+   "Mfr_Name": "BISMARCK PROP & WELDING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14227,
+   "Mfr_Name": "JORDAN AIRCRAFT SERVICES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "TRU-BILT TRAILERS",
+   "Mfr_ID": 14228,
+   "Mfr_Name": "WEBB REPAIR LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Circle H Trailers",
+   "Mfr_ID": 14229,
+   "Mfr_Name": "CIRCLE H TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14231,
+   "Mfr_Name": "SHANDONG YONKING RUBBER CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14232,
+   "Mfr_Name": "RAJYSAN INCORPORATED",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14233,
+   "Mfr_Name": "Qinzhou Hua Han Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14234,
+   "Mfr_Name": "Thomas Hilfen fur Behinderte GmbH & Co. Medico KG",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14235,
+   "Mfr_Name": "GUANGZHOU TIANMA GROUP TIANMA MOTORCYCLE CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14236,
+   "Mfr_Name": "CHONGQING SHINERAY MOTORCYCLE CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14237,
+   "Mfr_Name": "SHANDONG WOSEN RUBBER CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "THAILAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14238,
+   "Mfr_Name": "OTANI TIRE CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14239,
+   "Mfr_Name": "Qingdao Mao Xiang Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14240,
+   "Mfr_Name": "Metalurgica Cartec LTDA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14241,
+   "Mfr_Name": "Maflow S.p.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14242,
+   "Mfr_Name": "QINGDAO BUNDY MACHINERY PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14243,
+   "Mfr_Name": "Qingdao Gofar Machinery Parts Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14244,
+   "Mfr_Name": "MANUFACTURAS INDUSTRIALES GAMI, S.A DE C.V",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14245,
+   "Mfr_Name": "Indo Australian Hose Manufacturing (P) Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14247,
+   "Mfr_Name": "Tecnovidro - Industria de Vidros Ltda.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14248,
+   "Mfr_Name": "TRAILERS Y TANQUES DE ALUMINIO S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14249,
+   "Mfr_Name": "BOSCHER INDUSTRIAS S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "SOUTH AFRICA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14250,
+   "Mfr_Name": "Challenger Trailers Pty Ltd",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14251,
+   "Mfr_Name": "HEBEI STARBRIGHT TIRE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14252,
+   "Mfr_Name": "Triangle (Weihai) Huasheng Tyre Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14253,
+   "Mfr_Name": "Intermeccanica International Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14254,
+   "Mfr_Name": "SHANDONG JINYU INDUSTRIAL CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14255,
+   "Mfr_Name": "Apex Motor Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14256,
+   "Mfr_Name": "TI Automotive (Fuldabrueck) GmbH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14257,
+   "Mfr_Name": "H and M Trailer Sales",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14258,
+   "Mfr_Name": "Shandong Guangtong Machinery Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UKRAINE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14259,
+   "Mfr_Name": "CJSC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14260,
+   "Mfr_Name": "RICCO TRAILERS S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14261,
+   "Mfr_Name": "Hi-Tec Industries Inc.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14262,
+   "Mfr_Name": "Zhejiang Qingda Rubber Co Ltd",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "TRW",
+   "Mfr_ID": 14263,
+   "Mfr_Name": "TRW AUTOMOTIVE INC.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14264,
+   "Mfr_Name": "Ningbo Tip Automobile Parts Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14265,
+   "Mfr_Name": "Nimbus Trailer, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14266,
+   "Mfr_Name": "ZHEJIANG QIAOYU ENGINE PARTS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14267,
+   "Mfr_Name": "Giti Tire Manufacturing (USA) Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14268,
+   "Mfr_Name": "Jiangsu Fanhua Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14269,
+   "Mfr_Name": "WildSideCustoms LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14270,
+   "Mfr_Name": "JINHUA YONGQIANG VEHICLES FACTORY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "VIETNAM",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14271,
+   "Mfr_Name": "GELIMEX",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14272,
+   "Mfr_Name": "Shanghai Davey Machinery Co. Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": "Jialing",
+   "Mfr_ID": 14273,
+   "Mfr_Name": "SHANGHAI JIALING VEHICLE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14274,
+   "Mfr_Name": "Prefabricados Industriales Del Noroeste S.A. De C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "EMPIRE CARGO TRAILERS",
+   "Mfr_ID": 14275,
+   "Mfr_Name": "EMPIRE CARGO TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  }
+ ]
+}

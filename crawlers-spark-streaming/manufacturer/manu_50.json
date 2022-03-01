@@ -1,0 +1,928 @@
+{
+ "Count": 87,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6251,
+   "Mfr_Name": "ARMOUR GROUP, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6252,
+   "Mfr_Name": "MAYNARD FAB & TRAILER SALES LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6253,
+   "Mfr_Name": "MAINTAINER CORPORATION OF IOWA, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6254,
+   "Mfr_Name": "RAYNER EQUIPMENT SYSTEMS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "General Truck Body",
+   "Mfr_ID": 6256,
+   "Mfr_Name": "GENERAL BODY MANUFACTURING COMPANY ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6258,
+   "Mfr_Name": "WEATHERFORD TRUCK EQUIPMENT",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Eagle Ford Tanks & Trailers",
+   "Mfr_ID": 6259,
+   "Mfr_Name": "EAGLE FORD TANKS & TRAILERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6260,
+   "Mfr_Name": "DIAMONDBACK TRAILERS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6261,
+   "Mfr_Name": "FORTITUDE MANUFACTURING, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6262,
+   "Mfr_Name": "WESTERN CASCADE CONTAINER LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6263,
+   "Mfr_Name": "TOURINGPRODUCTS.COM, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6264,
+   "Mfr_Name": "GOTWALS BROTHERS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6265,
+   "Mfr_Name": "FEHR'S INDUSTRIAL MANUFACTURING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6266,
+   "Mfr_Name": "GREEN BEE ELECTRIC VEHICLE TECHNOLOGY INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6267,
+   "Mfr_Name": "LINDCO EQUIPMENT SALES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6268,
+   "Mfr_Name": "SUSQUEHANNA TRUCK SERVICE",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6269,
+   "Mfr_Name": "MASTERCRAFT TOOLS FLORIDA, INC. ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6270,
+   "Mfr_Name": "WEST COAST TRUCK EQUIPMENT, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6271,
+   "Mfr_Name": "FLAMING HACKSAW FABRICATION, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6272,
+   "Mfr_Name": "HI-RIDE MANUFACTURING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6274,
+   "Mfr_Name": "QUALITY TRAILER MANUFACTURY, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "ARGENTINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6275,
+   "Mfr_Name": "TI AUTOMOTIVE ARGENTINA SA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "AUSTRALIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6276,
+   "Mfr_Name": "BUNDY TUBING CO (AUSTRALIA) PTY LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BELGIUM",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6277,
+   "Mfr_Name": "TI GROUP AUTOMOTIVE SYSTEMS (BELGIUM) SA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "BRAZIL",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6278,
+   "Mfr_Name": "TI BRASIL INDUSTRIA E COMERCIA LTDA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6279,
+   "Mfr_Name": "TI AUTOMOTIVE CANADA INC. DBA TI AUTOMOTIVE AND/OR BUNDY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6280,
+   "Mfr_Name": "BUNDY FLUID SYSTEMS (CHONGQING) CO. LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6281,
+   "Mfr_Name": "BUNDY FLUID SYSTEMS (SHANGHAI) CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6282,
+   "Mfr_Name": "BUNDY FLUID SYSTEM CO., LTD. dba TI AUTOMOTIVE and/or BUNDY",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6283,
+   "Mfr_Name": "BUNDY FLUID SYSTEMS (TIANJIN) CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6284,
+   "Mfr_Name": "TI AUTOMOTIVE SYSTEMS (CHANGCHUN) CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6285,
+   "Mfr_Name": "TI AUTOMOTIVE SYSTEMS (HAINAN) CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6286,
+   "Mfr_Name": "TI AUTOMOTIVE SYSTEMS (SHANGHAI) CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6287,
+   "Mfr_Name": "WUHAN BUNDY FLUID SYSTEMS CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "COLOMBIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6288,
+   "Mfr_Name": "BUNDY COLOMBIA SA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CZECH REPUBLIC",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6289,
+   "Mfr_Name": "TI AUTOMOTIVE AC SRO",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CZECH REPUBLIC",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6290,
+   "Mfr_Name": "TI GROUP AUTOMOTIVE SYSTEMS SRO",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "FRANCE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6291,
+   "Mfr_Name": "TI AUTOMOTIVE FUEL SYSTEMS SAS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "FRANCE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6292,
+   "Mfr_Name": "TI GROUP AUTOMOTIVE SYSTEMS, SAS",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "DENMARK",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6293,
+   "Mfr_Name": "TI AUTOMOTIVE (ETTLINGEN) GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6294,
+   "Mfr_Name": "TI AUTOMOTIVE (FULDABRUCK) GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6295,
+   "Mfr_Name": "TI AUTOMOTIVE (GIFHORN) GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "DENMARK",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6296,
+   "Mfr_Name": "TI AUTOMOTIVE (HEIDELBERG) GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6297,
+   "Mfr_Name": "TI AUTOMOTIVE GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "DENMARK",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6298,
+   "Mfr_Name": "TI AUTOMOTIVE (NEUSS) GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "DENMARK",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6299,
+   "Mfr_Name": "TI AUTOMOTIVE ENGINEERING CENTRE (HEIDELBERG) GMBH",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6300,
+   "Mfr_Name": "CHANGZHOU JINMAO VEHICLE LAMPS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6301,
+   "Mfr_Name": "HUNDRED STUDIO INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6302,
+   "Mfr_Name": "L.T. CUSTOMS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6303,
+   "Mfr_Name": "ROLLING STAR MANUFACTURING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6304,
+   "Mfr_Name": "CHIPING XINFA ALUMINOUS PRODUCT CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6305,
+   "Mfr_Name": "INTEGRADORA MAQUIRENT, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6306,
+   "Mfr_Name": "ELITE TOOL LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6307,
+   "Mfr_Name": "CHANGZHOU ZHILIN AUTO PARTS CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6308,
+   "Mfr_Name": "ZHEJIANG WANHAO MOULD & PLASTIC CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6309,
+   "Mfr_Name": "EVOLUTION TRAILER TECHNOLOGIES",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6310,
+   "Mfr_Name": "GUANGZHOU VIKOUSI ELECTRONIC TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6311,
+   "Mfr_Name": "GUANGDONG KINGWOOD ELECTRONIC CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6312,
+   "Mfr_Name": "ZEROTRUCK CORPORATION",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6313,
+   "Mfr_Name": "WICKED DESIGNS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6314,
+   "Mfr_Name": "DARK WARRIOR MOTORCYCLE CORP.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6315,
+   "Mfr_Name": "ZING CARS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6316,
+   "Mfr_Name": "ARCH MOTORCYCLE COMPANY, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6317,
+   "Mfr_Name": "H & J INVESTMENT DBA ZEUS CHOPPERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6318,
+   "Mfr_Name": "WALDROP'S WELDING & FABRICATION LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6319,
+   "Mfr_Name": "TANQUES Y EQUIPOS INDUSTRIALES S.A DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6320,
+   "Mfr_Name": "TERCO MANUFACTURING, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6321,
+   "Mfr_Name": "STRUK AUTO TRANSPORTE SA DE CV",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6322,
+   "Mfr_Name": "LONE STAR TRAILER SERVICES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6324,
+   "Mfr_Name": "CHARLES BLASS WELDING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6325,
+   "Mfr_Name": "TENNFAB",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6326,
+   "Mfr_Name": "STEVES WELDING",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "R & M Mfg. Inc.",
+   "Mfr_ID": 6327,
+   "Mfr_Name": "R & M TRAILER MFG. INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6328,
+   "Mfr_Name": "SIZEMORE WELDING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6329,
+   "Mfr_Name": "MASTIFF TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6330,
+   "Mfr_Name": "JMG EQUIPMENT COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6331,
+   "Mfr_Name": "CALIFORNIA WORK TRUCKS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6332,
+   "Mfr_Name": "BATTISTI CUSTOMS, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6333,
+   "Mfr_Name": "BAY ENERGY SERVICES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6334,
+   "Mfr_Name": "A & K EQUIPMENT CO. INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6335,
+   "Mfr_Name": "HOT MIX MOBILE LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6336,
+   "Mfr_Name": "FLEET EQUIPMENT, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6337,
+   "Mfr_Name": "ERTL FABRICATING, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Passenger Car"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6338,
+   "Mfr_Name": "BALDOR ELECTRIC COMPANY",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6339,
+   "Mfr_Name": "LGS INDUSTRIES, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6340,
+   "Mfr_Name": "BURCH TANK & TRUCK, INC. (FORMERLY, BURCH WELDING & TANK)",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 6341,
+   "Mfr_Name": "JIM-N-I, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  }
+ ]
+}

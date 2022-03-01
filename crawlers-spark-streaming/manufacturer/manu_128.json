@@ -1,0 +1,796 @@
+{
+ "Count": 92,
+ "Message": "Response returned successfully",
+ "SearchCriteria": null,
+ "Results": [
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14082,
+   "Mfr_Name": "HUBEI XINCHUFENG TRUCK CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14083,
+   "Mfr_Name": "Jinhua Youngman Automobile Manufacturing Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14084,
+   "Mfr_Name": "Polarsun Motor Holdings LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14085,
+   "Mfr_Name": "Sichuan Kalevei Technology Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "FRANCE",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14086,
+   "Mfr_Name": "SAFRI",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14087,
+   "Mfr_Name": "ZODO TIRE CO., LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14088,
+   "Mfr_Name": "Auto Truck - New Jersey",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14089,
+   "Mfr_Name": "CHONGQING LIFAN INDUSTRY (GROUP) CO., LTD.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "T.J. Clark",
+   "Mfr_ID": 14090,
+   "Mfr_Name": "T.J. CLARK INTERNATIONAL, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14091,
+   "Mfr_Name": "APRILIA S.P.A.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14092,
+   "Mfr_Name": "Shelbourne Reynolds Inc.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14093,
+   "Mfr_Name": "LLantas y Accesorios Guadalajara S.A. de C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14094,
+   "Mfr_Name": "ALUX CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "IRELAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14095,
+   "Mfr_Name": "Kiverco Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14096,
+   "Mfr_Name": "Shandong O'Green Tyres Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "PANAMA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14097,
+   "Mfr_Name": "Optima Ballistic Glass Corporation",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "ACE TRAILERS",
+   "Mfr_ID": 14098,
+   "Mfr_Name": "ACE TRAILERS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14099,
+   "Mfr_Name": "HILBILT SALES CORP. - AR",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "NEW ZEALAND",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14100,
+   "Mfr_Name": "DesignLine International Holdings, LLC",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14102,
+   "Mfr_Name": "AN YNG ENTERPRISE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14103,
+   "Mfr_Name": "INDUSTRIAS PROACERO MONTERREY, S.A. DE C.V.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "LWM Precision Machining",
+   "Mfr_ID": 14104,
+   "Mfr_Name": "LAYNE WEST MANUFACTURING LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14105,
+   "Mfr_Name": "Qingdao Huashi Industrial Products Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14106,
+   "Mfr_Name": "YOUTH TAISUN CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14107,
+   "Mfr_Name": "Weifang Longshan Tyre Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "JAPAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14108,
+   "Mfr_Name": "TEIJIN LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14109,
+   "Mfr_Name": "Changzhou Nanxiashu Tools Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14110,
+   "Mfr_Name": "ACCURIDE WHEELS (SHANDONG) CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14111,
+   "Mfr_Name": "Jining Shiji Wheel Manufacturing Co.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14112,
+   "Mfr_Name": "Ningbo Zhenhai QX-Electronics Hardware Factory",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14113,
+   "Mfr_Name": "Tovic Tire Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14114,
+   "Mfr_Name": "Double Coin Holdings, Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14115,
+   "Mfr_Name": "GOOD FRIEND TYRE CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14116,
+   "Mfr_Name": "Shandong ChangFeng Tyres Co.., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14117,
+   "Mfr_Name": "Jiangsu General Science Technology Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14118,
+   "Mfr_Name": "FOSHAN NANHAI JIUJIANG JIADESHI HELMET CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14119,
+   "Mfr_Name": "HARDKORE KARTS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Low Speed Vehicle (LSV)"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14120,
+   "Mfr_Name": "BARNSTORM US CORP",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14121,
+   "Mfr_Name": "W AND W BODY BUILDERS OF COLUMBIA, INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "CC TRAILERS",
+   "Mfr_ID": 14122,
+   "Mfr_Name": "FULL THROTTLE PERFORMANCE FABRICATION ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14123,
+   "Mfr_Name": "Changzhou JiLi Glass Co, Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14124,
+   "Mfr_Name": "Tg Yueda Autoglass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14125,
+   "Mfr_Name": "Liuzhou Qicaiyangguang Safety Glass Co., Ltd",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14126,
+   "Mfr_Name": "Shanghai Fuyao Bus Glass Co., Ltd",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14127,
+   "Mfr_Name": "TAIZHOU LUQIAO XIONGXIN MOTOR FITTINGS CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDONESIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14128,
+   "Mfr_Name": "PT. INDOKARLO PERKASA",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "ITALY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14129,
+   "Mfr_Name": "Betamotor S.p.A.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14130,
+   "Mfr_Name": "Ace Safety Glass Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14131,
+   "Mfr_Name": "INNOVATIVE TYRES & TUBES LIMITED",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14132,
+   "Mfr_Name": "Zhejiang CFMOTO Power Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "TURKEY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14133,
+   "Mfr_Name": "Atiker Metal ITH. IHR. Ve IML. SAN. TIC. A.S.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14134,
+   "Mfr_Name": "SS Tech Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CZECH REPUBLIC",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14136,
+   "Mfr_Name": "Autohandl s.r.o. (Ltd)",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14137,
+   "Mfr_Name": "BIG CHIMNEY AUTO AND DIESEL REPAIR LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Quantum",
+   "Mfr_ID": 14138,
+   "Mfr_Name": "QUANTUM FUEL SYSTEMS LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Passenger Car"
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    },
+    {
+     "IsPrimary": false,
+     "Name": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+     "IsPrimary": true,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14139,
+   "Mfr_Name": "BLUE RIDGE METAL WORKS INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "TAIWAN",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14140,
+   "Mfr_Name": "EAGLE EYES TRAFFIC INDUSTRIAL CO. LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14141,
+   "Mfr_Name": "ShanDong Province LiangShan ShenLi Auto Parts Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14142,
+   "Mfr_Name": "Jiangsu Chengtong Tire Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14143,
+   "Mfr_Name": "Sichuan Huachuan Industry Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14144,
+   "Mfr_Name": "Videoturismo S.A.DE C.V.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14145,
+   "Mfr_Name": "Wenzhou Zhengxin Tyre Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": "Spartan",
+   "Mfr_ID": 14146,
+   "Mfr_Name": "SPARTAN CARGO TRAILERS, LLC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "INDIA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14147,
+   "Mfr_Name": "ATC Tires Pvt. Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14148,
+   "Mfr_Name": "SHANDONG ZHENGXING TYRES CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14149,
+   "Mfr_Name": "Hong Chang Hardware Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "SOUTH KOREA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14150,
+   "Mfr_Name": "Daesung Electric Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14151,
+   "Mfr_Name": "CIRBIN INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Motorcycle"
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14152,
+   "Mfr_Name": "Empire Retreading Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14153,
+   "Mfr_Name": "ZHEJIANG DICASTAL HONGXIN TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14154,
+   "Mfr_Name": "Zhejiang Jingu Company Limited",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "MEXICO",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14155,
+   "Mfr_Name": "Manufactura Especializada en Transporte SA de CV",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14156,
+   "Mfr_Name": "COASTAL ALTERNATIVE FUEL SYSTEMS",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Truck "
+    }
+   ]
+  },
+  {
+   "Country": "CANADA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14157,
+   "Mfr_Name": "T. & M. MFG. Inc. (Formerly Princeton Machine)",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14158,
+   "Mfr_Name": "Bocker Maschinenwerke GmbH",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14159,
+   "Mfr_Name": "TIMBERLAND INC DBA GLACIER",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14161,
+   "Mfr_Name": "CHARLES D. STAHL SALES & SVC INC.",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Incomplete Vehicle"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14162,
+   "Mfr_Name": "Qingdao Elite Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14163,
+   "Mfr_Name": "Qingdao Tianchi Tyre Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14164,
+   "Mfr_Name": "NINGBO GUOHONG AUTOMOTIVE CO.,LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14165,
+   "Mfr_Name": "Shandong Wonbon Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14166,
+   "Mfr_Name": "Tai Zhou San Xi Machinery Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14167,
+   "Mfr_Name": "PRESTIGE METAL WORKS, INC",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14168,
+   "Mfr_Name": "Hebei Yideli Rubber Products System Company",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14169,
+   "Mfr_Name": "DALIAN TYRE FACTORY CO., LTD",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14170,
+   "Mfr_Name": "Dongying Xinjinshan Rubber Co., Ltd.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14171,
+   "Mfr_Name": "24/7 MOTORSPORTS LLC ",
+   "VehicleTypes": [
+    {
+     "IsPrimary": true,
+     "Name": "Bus"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14172,
+   "Mfr_Name": "ZHEJIANG JUNHE RUBBER SCIENCE AND TECHNOLOGY CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14173,
+   "Mfr_Name": "SHENZHEN XWODA ELECTRONIC CO., LTD.",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "GERMANY",
+   "Mfr_CommonName": "Continental",
+   "Mfr_ID": 14174,
+   "Mfr_Name": "CONTINENTAL AG",
+   "VehicleTypes": []
+  },
+  {
+   "Country": "UNITED STATES (USA)",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14175,
+   "Mfr_Name": "Carolina Trailers",
+   "VehicleTypes": [
+    {
+     "IsPrimary": false,
+     "Name": "Trailer"
+    }
+   ]
+  },
+  {
+   "Country": "CHINA",
+   "Mfr_CommonName": null,
+   "Mfr_ID": 14176,
+   "Mfr_Name": "Qingdao Shuanghe Tyre Co., Ltd.",
+   "VehicleTypes": []
+  }
+ ]
+}
